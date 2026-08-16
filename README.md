@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,242 | 🐛 249 | 🌐 Jupyter Notebook | 📅 2026-08-15] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,259 | 🐛 243 | 🌐 Jupyter Notebook | 📅 2026-08-16] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -143,12 +143,12 @@ In this blog post, as a brief overview of our existing work, we motivate these c
 
 **GPT-4 Technical Report** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,179 | 🐛 225 | 🌐 Python | 📅 2026-04-14] \
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,181 | 🐛 225 | 🌐 Python | 📅 2026-04-14] \
 16 Mar 2023
 
 **GPT-4 System Card** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,179 | 🐛 225 | 🌐 Python | 📅 2026-04-14]\
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,181 | 🐛 225 | 🌐 Python | 📅 2026-04-14]\
 15 Mar 2023
 
 ## Tutorial
@@ -170,7 +170,7 @@ COLLING 2022. \[[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 **Wider and Deeper LLM Networks are Fairer LLM Evaluators** \
 *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li* \
-arXiv 2023. \[[Paper](https://aps.arxiv.org/abs/2308.01862)]\[[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep) ⭐ 1,575 | 🐛 79 | 🌐 Python | 📅 2026-06-10] \
+arXiv 2023. \[[Paper](https://aps.arxiv.org/abs/2308.01862)]\[[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep) ⭐ 1,576 | 🐛 79 | 🌐 Python | 📅 2026-06-10] \
 3 Aug 2023
 
 **A Survey on Evaluation of Large Language Models** \
@@ -190,7 +190,7 @@ arXiv, 2023. \[[Paper](https://arxiv.org/abs/2304.08979)] \
 
 **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** \
 *Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, Haoming Jiang, Bing Yin, Xia Hu* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13712)]\[[Github](https://github.com/mooler0410/llmspracticalguide) ⭐ 10,197 | 🐛 17 | 📅 2026-04-08] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13712)]\[[Github](https://github.com/mooler0410/llmspracticalguide) ⭐ 10,198 | 🐛 17 | 📅 2026-04-08] \
 27 Apr 2023
 
 **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks** \
@@ -389,7 +389,7 @@ ICML 2018.  \[[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 
 **Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers** \
 *Dylan Bouchard, Mohit Singh Chauhan* \
-arXiv 2025.  \[[Paper](https://arxiv.org/abs/2504.19254)]\[[GitHub](https://github.com/cvs-health/uqlm) ⭐ 1,190 | 🐛 18 | 🌐 Python | 📅 2026-08-13] \
+arXiv 2025.  \[[Paper](https://arxiv.org/abs/2504.19254)]\[[GitHub](https://github.com/cvs-health/uqlm) ⭐ 1,190 | 🐛 21 | 🌐 Python | 📅 2026-08-13] \
 April 2025
 
 ### Calibration
@@ -924,7 +924,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.12822)]\[[Github](https://githu
 
 **Large Language Models Are Human-Level Prompt Engineers** \
 *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba* \
-ICLR 2023. \[[Paper](https://arxiv.org/abs/2211.01910)] \[[Github](https://github.com/keirp/automatic_prompt_engineer) ⭐ 1,362 | 🐛 22 | 🌐 Python | 📅 2024-04-29] \
+ICLR 2023. \[[Paper](https://arxiv.org/abs/2211.01910)] \[[Github](https://github.com/keirp/automatic_prompt_engineer) ⭐ 1,363 | 🐛 22 | 🌐 Python | 📅 2024-04-29] \
 3 Nov 2022
 
 **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \
@@ -965,7 +965,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10475)]\[[Github](https://githu
 
 **Self-Instruct: Aligning Language Model with Self Generated Instructions** \
 *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2212.10560)] \[[Github](https://github.com/yizhongw/self-instruct) ⭐ 4,611 | 🐛 13 | 🌐 Python | 📅 2023-03-27] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2212.10560)] \[[Github](https://github.com/yizhongw/self-instruct) ⭐ 4,610 | 🐛 13 | 🌐 Python | 📅 2023-03-27] \
 20 Dec 2022
 
 **Constitutional AI: Harmlessness from AI Feedback** \
@@ -1068,7 +1068,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.03154)] \
 
 **Internal Safety Collapse in Frontier Large Language Models** \
 *Yutao Wu, Jie Zhang, Tianwei Zhang, Xingjun Ma* \
-arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,082 | 🐛 0 | 🌐 Python | 📅 2026-08-10] \
+arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,077 | 🐛 0 | 🌐 Python | 📅 2026-08-10] \
 4 Mar 2026
 
 **PEARL: Towards Permutation-Resilient LLMs** \
@@ -1168,4 +1168,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
