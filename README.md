@@ -1,7 +1,7 @@
 # Awesome-LLM-Uncertainty-Reliability-Robustness with stars
 
 \
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,363 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,364 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges) ⭐ 163 | 🐛 1 | 📅 2026-04-26
 
@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,519 | 🐛 296 | 🌐 Jupyter Notebook | 📅 2026-08-24] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,523 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2026-08-24] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -143,12 +143,12 @@ In this blog post, as a brief overview of our existing work, we motivate these c
 
 **GPT-4 Technical Report** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,240 | 🐛 323 | 🌐 Python | 📅 2026-04-14] \
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,242 | 🐛 323 | 🌐 Python | 📅 2026-04-14] \
 16 Mar 2023
 
 **GPT-4 System Card** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,240 | 🐛 323 | 🌐 Python | 📅 2026-04-14]\
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,242 | 🐛 323 | 🌐 Python | 📅 2026-04-14]\
 15 Mar 2023
 
 ## Tutorial
@@ -180,7 +180,7 @@ Arxiv 2023. \[[Paper](https://arxiv.org/abs/2307.03109)]\[[Github](https://githu
 
 **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models** \
 *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li* \
-Arxiv, 2023. \[[Paper](https://arxiv.org/abs/2306.11698)] \[[Github](https://github.com/AI-secure/DecodingTrust/) ⭐ 314 | 🐛 15 | 🌐 Python | 📅 2024-09-16] \[[Website](https://decodingtrust.github.io/)] \
+Arxiv, 2023. \[[Paper](https://arxiv.org/abs/2306.11698)] \[[Github](https://github.com/AI-secure/DecodingTrust/) ⭐ 315 | 🐛 15 | 🌐 Python | 📅 2024-09-16] \[[Website](https://decodingtrust.github.io/)] \
 20 Jun 2023
 
 **In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT** \
@@ -389,7 +389,7 @@ ICML 2018.  \[[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 
 **Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers** \
 *Dylan Bouchard, Mohit Singh Chauhan* \
-arXiv 2025.  \[[Paper](https://arxiv.org/abs/2504.19254)]\[[GitHub](https://github.com/cvs-health/uqlm) ⭐ 1,193 | 🐛 26 | 🌐 Python | 📅 2026-08-17] \
+arXiv 2025.  \[[Paper](https://arxiv.org/abs/2504.19254)]\[[GitHub](https://github.com/cvs-health/uqlm) ⭐ 1,193 | 🐛 29 | 🌐 Python | 📅 2026-08-24] \
 April 2025
 
 ### Calibration
@@ -466,7 +466,7 @@ EMNLP 2021. \[[Paper](https://arxiv.org/abs/2109.06352)] \
 
 **Calibrate Before Use: Improving Few-Shot Performance of Language Models** \
 *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
-ICML 2021. \[[Paper](https://arxiv.org/abs/2102.09690)]\[[Github](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 357 | 🐛 4 | 🌐 Python | 📅 2023-09-18 \
+ICML 2021. \[[Paper](https://arxiv.org/abs/2102.09690)]\[[Github](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 358 | 🐛 4 | 🌐 Python | 📅 2023-09-18 \
 19 Feb 2021
 
 **How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering** \

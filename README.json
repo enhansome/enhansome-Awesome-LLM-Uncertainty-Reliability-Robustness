@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 468576060,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T08:40:51Z",
+                "last_commit": "2026-08-24T18:49:08Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75519
+                "stars": 75523
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19240
+                "stars": 19242
               }
             }
           ],
@@ -97,7 +97,7 @@
                 "last_commit": "2024-09-16T18:46:51Z",
                 "owner": "AI-secure",
                 "repo": "DecodingTrust",
-                "stars": 314
+                "stars": 315
               }
             },
             {
@@ -328,7 +328,7 @@
                     "archived": false,
                     "id": 968339993,
                     "language": "Python",
-                    "last_commit": "2026-08-17T18:36:09Z",
+                    "last_commit": "2026-08-24T16:36:57Z",
                     "owner": "cvs-health",
                     "repo": "uqlm",
                     "stars": 1193
@@ -383,7 +383,7 @@
                     "last_commit": "2023-09-18T19:16:09Z",
                     "owner": "tonyzhaozh",
                     "repo": "few-shot-learning",
-                    "stars": 357
+                    "stars": 358
                   }
                 },
                 {
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:36.165Z",
+    "last_updated": "2026-08-24T19:53:32.850Z",
     "original_repository": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
     "original_repository_id": 616324616,
     "original_repository_sha": "493c8f3b432bc1fe665ebf2e7dd4e339f98799f2",
