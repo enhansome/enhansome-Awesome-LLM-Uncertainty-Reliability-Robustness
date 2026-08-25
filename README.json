@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 468576060,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T02:55:56Z",
+                "last_commit": "2026-08-25T14:59:51Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75531
+                "stars": 75541
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19241
+                "stars": 19253
               }
             }
           ],
@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-01T05:43:40Z",
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1610
+                "stars": 1609
               }
             },
             {
@@ -328,10 +328,10 @@
                     "archived": false,
                     "id": 968339993,
                     "language": "Python",
-                    "last_commit": "2026-08-25T01:41:48Z",
+                    "last_commit": "2026-08-25T13:19:02Z",
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1193
+                    "stars": 1192
                   }
                 }
               ],
@@ -912,7 +912,7 @@
                     "last_commit": "2024-02-06T02:34:32Z",
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4120
+                    "stars": 4121
                   }
                 },
                 {
@@ -1241,7 +1241,7 @@
                     "last_commit": "2023-03-27T18:18:51Z",
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4610
+                    "stars": 4609
                   }
                 },
                 {
@@ -1359,7 +1359,7 @@
                     "last_commit": "2026-08-21T05:30:32Z",
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1150
+                    "stars": 1153
                   }
                 },
                 {
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:00.647Z",
+    "last_updated": "2026-08-25T19:54:28.916Z",
     "original_repository": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
     "original_repository_id": 616324616,
     "original_repository_sha": "493c8f3b432bc1fe665ebf2e7dd4e339f98799f2",
