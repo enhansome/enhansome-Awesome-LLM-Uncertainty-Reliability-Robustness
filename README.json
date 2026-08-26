@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 468576060,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T14:59:51Z",
+                "last_commit": "2026-08-26T20:54:43Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75541
+                "stars": 75570
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19253
+                "stars": 19259
               }
             }
           ],
@@ -67,7 +67,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1579
+                "stars": 1580
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2024-09-16T18:46:51Z",
                 "owner": "AI-secure",
                 "repo": "DecodingTrust",
-                "stars": 315
+                "stars": 316
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-04-08T18:26:44Z",
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10201
+                "stars": 10200
               }
             },
             {
@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-01T01:23:17Z",
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2885
+                "stars": 2887
               }
             },
             {
@@ -328,7 +328,7 @@
                     "archived": false,
                     "id": 968339993,
                     "language": "Python",
-                    "last_commit": "2026-08-25T13:19:02Z",
+                    "last_commit": "2026-08-26T11:28:04Z",
                     "owner": "cvs-health",
                     "repo": "uqlm",
                     "stars": 1192
@@ -793,7 +793,7 @@
                     "last_commit": "2024-06-26T16:17:02Z",
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 628
+                    "stars": 627
                   }
                 }
               ],
@@ -845,7 +845,7 @@
                     "last_commit": "2025-01-16T03:13:08Z",
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 940
+                    "stars": 941
                   }
                 }
               ],
@@ -912,7 +912,7 @@
                     "last_commit": "2024-02-06T02:34:32Z",
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4121
+                    "stars": 4122
                   }
                 },
                 {
@@ -1211,7 +1211,7 @@
                     "last_commit": "2024-10-04T21:06:28Z",
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 818
+                    "stars": 819
                   }
                 },
                 {
@@ -1359,7 +1359,7 @@
                     "last_commit": "2026-08-21T05:30:32Z",
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1153
+                    "stars": 1155
                   }
                 },
                 {
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:54:28.916Z",
+    "last_updated": "2026-08-26T22:22:39.221Z",
     "original_repository": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
     "original_repository_id": 616324616,
     "original_repository_sha": "493c8f3b432bc1fe665ebf2e7dd4e339f98799f2",
