@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 468576060,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T20:54:43Z",
+                "last_commit": "2026-08-26T23:24:07Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75570
+                "stars": 75576
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19259
+                "stars": 19282
               }
             }
           ],
@@ -715,7 +715,7 @@
                     "archived": false,
                     "id": 1209673285,
                     "language": "Python",
-                    "last_commit": "2026-08-25T04:39:56Z",
+                    "last_commit": "2026-08-27T07:56:03Z",
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 14
@@ -733,7 +733,7 @@
                     "last_commit": "2026-07-05T23:06:12Z",
                     "owner": "ZhishanQ",
                     "repo": "QuCo-RAG",
-                    "stars": 46
+                    "stars": 47
                   }
                 },
                 {
@@ -793,7 +793,7 @@
                     "last_commit": "2024-06-26T16:17:02Z",
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 627
+                    "stars": 628
                   }
                 }
               ],
@@ -912,7 +912,7 @@
                     "last_commit": "2024-02-06T02:34:32Z",
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4122
+                    "stars": 4126
                   }
                 },
                 {
@@ -1211,7 +1211,7 @@
                     "last_commit": "2024-10-04T21:06:28Z",
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 819
+                    "stars": 820
                   }
                 },
                 {
@@ -1241,7 +1241,7 @@
                     "last_commit": "2023-03-27T18:18:51Z",
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4609
+                    "stars": 4608
                   }
                 },
                 {
@@ -1293,7 +1293,7 @@
                     "last_commit": "2023-06-30T12:57:39Z",
                     "owner": "reasoning-machines",
                     "repo": "pal",
-                    "stars": 525
+                    "stars": 526
                   }
                 }
               ],
@@ -1356,10 +1356,10 @@
                     "archived": false,
                     "id": 1170037043,
                     "language": "Python",
-                    "last_commit": "2026-08-21T05:30:32Z",
+                    "last_commit": "2026-08-27T07:10:09Z",
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1155
+                    "stars": 1158
                   }
                 },
                 {
@@ -1429,9 +1429,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:22:39.221Z",
-    "original_repository": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
-    "original_repository_id": 616324616,
+    "last_updated": "2026-08-27T11:23:26.853Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 616324616,
+      "language": null,
+      "last_commit": "2026-06-05T04:29:39Z",
+      "owner": "jxzhangjhu",
+      "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
+      "stars": 833
+    },
     "original_repository_sha": "493c8f3b432bc1fe665ebf2e7dd4e339f98799f2",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Uncertainty-Reliability-Robustness",
     "enhanced_repository_description": null,
