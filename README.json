@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 468576060,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T23:24:07Z",
+                "last_commit": "2026-08-27T20:56:12Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75576
+                "stars": 75582
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19282
+                "stars": 19289
               }
             }
           ],
@@ -112,7 +112,7 @@
                 "last_commit": "2026-04-08T18:26:44Z",
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10200
+                "stars": 10201
               }
             },
             {
@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-01T01:23:17Z",
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2887
+                "stars": 2890
               }
             },
             {
@@ -715,7 +715,7 @@
                     "archived": false,
                     "id": 1209673285,
                     "language": "Python",
-                    "last_commit": "2026-08-27T07:56:03Z",
+                    "last_commit": "2026-08-28T02:26:22Z",
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 14
@@ -912,7 +912,7 @@
                     "last_commit": "2024-02-06T02:34:32Z",
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4126
+                    "stars": 4129
                   }
                 },
                 {
@@ -1359,7 +1359,7 @@
                     "last_commit": "2026-08-27T07:10:09Z",
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1158
+                    "stars": 1162
                   }
                 },
                 {
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:26.853Z",
+    "last_updated": "2026-08-28T03:38:22.907Z",
     "original_repository_info": {
       "archived": false,
       "id": 616324616,
