@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,594 | 🐛 294 | 🌐 Jupyter Notebook | 📅 2026-08-28] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,595 | 🐛 294 | 🌐 Jupyter Notebook | 📅 2026-08-28] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -1068,7 +1068,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.03154)] \
 
 **Internal Safety Collapse in Frontier Large Language Models** \
 *Yutao Wu, Jie Zhang, Tianwei Zhang, Xingjun Ma* \
-arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,164 | 🐛 0 | 🌐 Python | 📅 2026-08-27] \
+arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,165 | 🐛 0 | 🌐 Python | 📅 2026-08-27] \
 4 Mar 2026
 
 **PEARL: Towards Permutation-Resilient LLMs** \
