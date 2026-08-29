@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 468576060,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T20:56:12Z",
+                "last_commit": "2026-08-28T17:13:13Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75582
-              }
+                "stars": 75594
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             }
           ],
           "description": "The Determinants of Controllable AGI Allen Schmaltz [Link] 3 Mar 2025\nGPT Is an Unreliable Information Store Noble Ackerson [Link] 20 Feb 2023\n“Misusing” Large Language Models and the Future of MT Arle Lommel [Link] 20 Dec 2022\nLarge language models: The basics and their applications Margo Poda [Link] 9 Feb 2023\nPrompt Engineering: Improving Responses & Reliability Peter Foy[Link]19 Mar 2023\nGPT/calibration tag Gwern Branwen [Link]\nPrompt Engineering Lilian Weng[Link]\nLLM Powered Autonomous Agents Lilian Weng[Link]\nReliability in Learning Prompting[Link]\nBuilding LLM applications for production Chip Huyen [Link] 11 Apr 2023\nPractical, Real-World Neural Network Interpretability and Deployment Allen Schmaltz [Link] 11 Dec 2021",
@@ -39,8 +40,9 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19289
-              }
+                "stars": 19298
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             }
           ],
           "description": "GPT-4 Technical Report OpenAI arXiv 2023. [Paper][Cookbook] 16 Mar 2023",
@@ -68,7 +70,8 @@
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1580
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -83,7 +86,8 @@
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
                 "stars": 1609
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -98,7 +102,8 @@
                 "owner": "AI-secure",
                 "repo": "DecodingTrust",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -112,8 +117,9 @@
                 "last_commit": "2026-04-08T18:26:44Z",
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10201
-              }
+                "stars": 10202
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -128,7 +134,8 @@
                 "owner": "textflint",
                 "repo": "textflint",
                 "stars": 652
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -143,7 +150,8 @@
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2890
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "NoviScl",
                 "repo": "GPT3-Reliability",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "GEM-benchmark",
                 "repo": "NL-Augmenter",
                 "stars": 786
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "textflint",
                 "repo": "textflint",
                 "stars": 652
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "robustness-gym",
                 "repo": "robustness-gym",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "marcotcr",
                 "repo": "checklist",
                 "stars": 2050
-              }
+              },
+              "first_seen": "2026-08-29T02:21:21.016Z"
             }
           ],
           "description": "In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang arXiv, 2023. [Paper] 18 Apr 2023\nPlex: Towards Reliability using Pretrained Large Model Extensions Dustin Tran, Jeremiah Liu, Michael W. Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Karan Singhal, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, Honglin Yuan, Kelly Buchanan, Kevin Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan arXiv 2022. [Paper] 15 Jul 2022\nLanguage Models (Mostly) Know What They Know Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, Scott Johnston, Sheer El-Showk, Andy Jones, Nelson Elhage, Tristan Hume, Anna Chen, Yuntao Bai, Sam Bowman, Stanislav Fort, Deep Ganguli, Danny Hernandez, Josh Jacobson, Jackson Kernion, Shauna Kravec, Liane Lovitt, Kamal Ndousse, Catherine Olsson, Sam Ringer, Dario Amodei, Tom Brown, Jack Clark, Nicholas Joseph, Ben Mann, Sam McCandlish, Chris Olah, Jared Kaplan arXiv 2022. [Paper] 11 Jul 2022\nAugmented Language Models: a Survey Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom arXiv 2023. [Paper] 15 Feb 2023\nA Survey of Evaluation Metrics Used for NLG Systems Ananya B. Sai, Akash Kumar Mohankumar, Mitesh M. Khapra ACM Computing Survey, 2022. [Paper] 18 Jan 2022",
@@ -242,7 +255,8 @@
                     "owner": "AlexanderVNikitin",
                     "repo": "kernel-language-entropy",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -257,7 +271,8 @@
                     "owner": "zlin7",
                     "repo": "UQ-NLG",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -272,7 +287,8 @@
                     "owner": "sylinrl",
                     "repo": "CalibratedMath",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -287,7 +303,8 @@
                     "owner": "yueyu1030",
                     "repo": "Patron",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -302,7 +319,8 @@
                     "owner": "google-deepmind",
                     "repo": "neural_testbed",
                     "stars": 191
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -317,7 +335,8 @@
                     "owner": "xiaoyuxin1002",
                     "repo": "UQ-PLM",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -331,8 +350,9 @@
                     "last_commit": "2026-08-26T11:28:04Z",
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1192
-                  }
+                    "stars": 1193
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang arXiv 2026. [Paper] 24 Jan 2026\nBLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models Yibin Wang, Haizhou Shi, Ligong Han, Dimitris Metaxas, Hao Wang arXiv 2024. [Paper] 18 Jun 2024\nUncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach Linyu Liu, Yu Pan, Xiaocheng Li, Guanting Chen arXiv 2024. [Paper] 24 Apr 2024\nMARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs Bakman et al. ACL 2024. [Paper] 19 Feb 2024\nShifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models Jinhao Duan, Hao Cheng, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu arXiv 2023. [Paper] 9 Oct 2023\nLook Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models Yuheng Huang, Jiayang Song, Zhijie Wang, Shengming Zhao, Huaming Chen, Felix Juefei-Xu, Lei Ma arXiv 2023. [Paper] 16 Jul 2023\nQuantifying Uncertainty in Natural Language Explanations of Large Language Models Sree Harsha Tanneru, Chirag Agarwal, Himabindu Lakkaraju arXiv 2023. [Paper] 6 Nov 2023\nConformal Autoregressive Generation: Beam Search with Coverage Guarantees Nicolas Deutschmann, Marvin Alberts, María Rodríguez Martínez arXiv 2023. [Paper] 7 Sep 2023\nQuantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness Jiuhai Chen, Jonas Mueller arXiv 2023. [Paper] 30 Aug 2023\nUncertainty in Natural Language Generation: From Theory to Applications Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz arXiv 2023. [Paper] 28 July 2023\nHuman Uncertainty in Concept-Based AI Systems Katherine M. Collins, Matthew Barker, Mateo Espinosa Zarlenga, Naveen Raman, Umang Bhatt, Mateja Jamnik, Ilia Sucholutsky, Adrian Weller, Krishnamurthy Dvijotham arXiv 2023. [Paper] 22 Mar 2023\nNavigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto arXiv 2023. [Paper] 25 Feb 2023\nDEUP: Direct Epistemic Uncertainty Prediction Salem Lahlou, Moksh Jain, Hadi Nekoei, Victor Ion Butoi, Paul Bertin, Jarrid Rector-Brooks, Maksym Korablyov, Yoshua Bengio TMLR 2023. [Paper] 3 Feb 2023\nOn Compositional Uncertainty Quantification for Seq2seq Graph Parsing Zi Lin, Du Phan, Panupong Pasupat, Jeremiah Zhe Liu, Jingbo Shang ICLR 2023. [Paper] 1 Feb 2023\nNeural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification Zi Lin, Jeremiah Liu, Jingbo Shang EMNLP 2022. [Paper] 16 Jan 2023\nSemantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation Lorenz Kuhn, Yarin Gal, Sebastian Farquhar ICLR 2023. [Paper] 19 Feb 2022\nUncertainty Estimation for Language Reward Models Adam Gleave, Geoffrey Irving arXiv 2022. [Paper] 14 Mar 2022\nUncertainty Estimation and Reduction of Pre-trained Models for Text Regression Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor TACL 2022. [Paper] Jun 2022\nUncertainty Estimation in Autoregressive Structured Prediction Andrey Malinin, Mark Gales ICLR 2021. [Paper] 18 Feb 2020\nUnsupervised Quality Estimation for Neural Machine Translation Marina Fomicheva, Shuo Sun, Lisa Yankovskaya, Frédéric Blain, Francisco Guzmán, Mark Fishel, Nikolaos Aletras, Vishrav Chaudhary, Lucia Specia TACL 2020. [Paper][Dataset] 21 May 2020\nAnalyzing Uncertainty in Neural Machine Translation Myle Ott, Michael Auli, David Grangier, Marc’Aurelio Ranzato ICML 2018. [Paper] 2018",
@@ -354,7 +374,8 @@
                     "owner": "ReexpressAI",
                     "repo": "sdm",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -369,7 +390,8 @@
                     "owner": "parameterlab",
                     "repo": "apricot",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -384,7 +406,8 @@
                     "owner": "tonyzhaozh",
                     "repo": "few-shot-learning",
                     "stars": 358
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -399,7 +422,8 @@
                     "owner": "jzbjyb",
                     "repo": "lm-calibration",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -414,7 +438,8 @@
                     "owner": "shreydesai",
                     "repo": "calibration",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "REFUTE: Reasoning Over Evidence — scientific critique & epistemic calibration BGPT HF 2026. [Technical report][Dataset][Leaderboard] Jun 2026\nBatch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering Han Zhou, Xingchen Wan, Lev Proleev, Diana Mincu, Jilin Chen, Katherine Heller, Subhrajit Roy ICLR 2024. [Paper] 24 Jan 2024\nDo Large Language Models Know What They Don't Know? Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang arXiv 2023. [Paper] 29 May 2023\nJust Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D. Manning arXiv 2023. [Paper] 24 May 2023\nTowards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4 Kellin Pelrine, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Reihaneh Rabbany arXiv 2023. [Paper] 24 May 2023\nCalibrated Interpretation: Confidence Estimation in Semantic Parsing Elias Stengel-Eskin, Benjamin Van Durme arXiv 2022. [Paper] [Github] 14 Nov 2022.\nCalibrating Sequence likelihood Improves Conditional Language Generation Yao Zhao, Misha Khalman, Rishabh Joshi, Shashi Narayan, Mohammad Saleh, Peter J. Liu ICLR 2023. [Paper]30 Sep 2022\nCalibrated Selective Classification Adam Fisch, Tommi Jaakkola, Regina Barzilay TMLR 2022. [Paper] 25 Aug 2022\nReducing conversational agents' overconfidence through linguistic calibration Sabrina J. Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau NAACL 2022. [Paper] 22 Jun 2022\nRe-Examining Calibration: The Case of Question Answering Chenglei Si, Chen Zhao, Sewon Min, Jordan Boyd-Graber EMNLP 2022 Findings. [Paper] 25 May 2022\nTowards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty Zi Lin, Jeremiah Liu, Jingbo Shang ACL Fingings 2022. [Paper] 22 May 2022\nUncertainty-aware machine translation evaluation Taisiya Glushkova, Chrysoula Zerva, Ricardo Rei, André F. T. Martins EMNLP 2021. [Paper] 13 Sep 2021",
@@ -436,7 +461,8 @@
                     "owner": "gankim",
                     "repo": "tree-of-clarifications",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -451,7 +477,8 @@
                     "owner": "alisawuffles",
                     "repo": "ambient",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -466,7 +493,8 @@
                     "owner": "alextamkin",
                     "repo": "active-learning-pretrained-models",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -481,7 +509,8 @@
                     "owner": "esteng",
                     "repo": "ambiguous_vqa",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Selectively Answering Ambiguous Questions Jeremy R. Cole, Michael J.Q. Zhang, Daniel Gillick, Julian Martin Eisenschlos, Bhuwan Dhingra, Jacob Eisenstein \\ arXiv 2023. [Paper] 24 May 2023\nCLAM: Selective Clarification for Ambiguous Questions with Generative Language Models Lorenz Kuhn, Yarin Gal, Sebastian Farquhar arXiv 2022. [Paper] 15 Dec 2022\nHow to Approach Ambiguous Queries in Conversational Search: A Survey of Techniques, Approaches, Tools, and Challenges Kimiya Keyvan, Jimmy Xiangji Huang ACM Computing Survey, 2022. [Paper] 7 Dec 2022\nAssistance with large language models Dmitrii Krasheninnikov, Egor Krasheninnikov, David Krueger NeurIPS MLSW Workshop 2022. [Paper] 5 Dec 2022\nAbg-CoQA: Clarifying Ambiguity in Conversational Question Answering Meiqi Guo, Mingda Zhang, Siva Reddy, Malihe Alikhani AKBC 2021. [Paper] 22 Jun 2021",
@@ -503,7 +532,8 @@
                     "owner": "aangelopoulos",
                     "repo": "conformal-risk",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "The Confidence-Competence Gap in Large Language Models: A Cognitive Study Aniket Kumar Singh, Suman Devkota, Bishal Lamichhane, Uttam Dhakal, Chandra Dhakal arXiv 2023. [Paper] 28 Sep 2023\nStrength in Numbers: Estimating Confidence of Large Language Models by Prompt Agreement Gwenyth Portillo Wightman, Alexandra Delucia, Mark Dredze ACL TrustNLP Workshop 2023. [Paper] 1 Jul 2023\nWhat Are the Different Approaches for Detecting Content Generated by LLMs Such As ChatGPT? And How Do They Work and Differ? Sebastian Raschka [Link] [GPTZero] 1 Feb 2023\nDetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn arXiv 2023. [Paper][Website] 26 Jan 2023\nConfident Adaptive Language Modeling Tal Schuster, Adam Fisch, Jai Gupta, Mostafa Dehghani, Dara Bahri, Vinh Q. Tran, Yi Tay, Donald Metzler NeurIPS 2022. [Paper] 25 Oct 2022",
@@ -525,7 +555,8 @@
                     "owner": "zzsfornlp",
                     "repo": "zmsp",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -540,7 +571,8 @@
                     "owner": "shizhediao",
                     "repo": "active-prompt",
                     "stars": 249
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -555,7 +587,8 @@
                     "owner": "bonaventuredossou",
                     "repo": "MLM_AL",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -570,7 +603,8 @@
                     "owner": "alextamkin",
                     "repo": "active-learning-pretrained-models",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -585,7 +619,8 @@
                     "owner": "xlang-ai",
                     "repo": "icl-selective-annotation",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -600,7 +635,8 @@
                     "owner": "rotmanguy",
                     "repo": "MTAL",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -615,7 +651,8 @@
                     "owner": "yueyu1030",
                     "repo": "actune",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -630,7 +667,8 @@
                     "owner": "AIRI-Institute",
                     "repo": "al_nlp_feasible",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -645,7 +683,8 @@
                     "owner": "nlp-uoregon",
                     "repo": "famie",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -660,7 +699,8 @@
                     "owner": "mourga",
                     "repo": "contrastive-active-learning",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -675,7 +715,8 @@
                     "owner": "webis-de",
                     "repo": "acl22-revisiting-uncertainty-based-query-strategies-for-active-learning-with-transformers",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Low-resource Interactive Active Labeling for Fine-tuning Language Models Seiji Maekawa, Dan Zhang, Hannah Kim, Sajjadur Rahman, Estevam Hruschka EMNLP Findings 2022. [Paper] 7 Dec 2022\nCan You Label Less by Using Out-of-Domain Data? Active & Transfer Learning with Few-shot Instructions Rafal Kocielnik, Sara Kangaslahti, Shrimai Prabhumoye, Meena Hari, R. Michael Alvarez, Anima Anandkumar NeurIPS Workshop 2022. [Paper] 21 Nov 2022\nOn the Importance of Effectively Adapting Pretrained Language Models for Active Learning Katerina Margatina, Loïc Barrault, Nikolaos Aletras ACL 2022. [Paper] 2 Mar 2022\nLimitations of Active Learning With Deep Transformer Language Models Mike D'Arcy, Doug Downey Arxiv 2022. [Paper] 28 Jan 2022\nActive Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates Artem Shelmanov, Dmitri Puzyrev, Lyubov Kupriyanova, Denis Belyakov, Daniil Larionov, Nikita Khromov, Olga Kozlova, Ekaterina Artemova, Dmitry V. Dylov, Alexander Panchenko EACL 2021. [Paper] 18 Feb 2021\nFine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning Daniel Grießhaber, Johannes Maucher, Ngoc Thang Vu COLING 2020. [Paper] 4 Dec 2020",
@@ -704,7 +745,8 @@
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
                     "stars": 1125
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -715,11 +757,12 @@
                     "archived": false,
                     "id": 1209673285,
                     "language": "Python",
-                    "last_commit": "2026-08-28T02:26:22Z",
+                    "last_commit": "2026-08-28T21:10:41Z",
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -734,7 +777,8 @@
                     "owner": "ZhishanQ",
                     "repo": "QuCo-RAG",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -749,7 +793,8 @@
                     "owner": "tianyi-lab",
                     "repo": "HallusionBench",
                     "stars": 342
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -764,7 +809,8 @@
                     "owner": "intuit",
                     "repo": "sac3",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -779,7 +825,8 @@
                     "owner": "ChanLiang",
                     "repo": "CONNER",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -794,7 +841,8 @@
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
                     "stars": 628
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang arXiv 2026. [Paper] 24 Jan 2026\nHallucination Leaderboard Vectara [Link] 2 Nov 2023\nChain-of-Verification Reduces Hallucination in Large Language Models Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston arXiv 2023. [Paper] 20 Sep 2023\nDo Language Models Know When They're Hallucinating References? Ayush Agrawal, Lester Mackey, Adam Tauman Kalai arXiv 2023. [Paper] 29 May 2023.\nSelf-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation Niels Mündler, Jingxuan He, Slobodan Jenko, Martin Vechev arXiv 2023. [Paper] 25 May 2023\nWhy Does ChatGPT Fall Short in Providing Truthful Answers? Shen Zheng, Jie Huang, Kevin Chen-Chuan Chang arXiv 2023. [Paper] 24 May 2023\nHow Language Model Hallucinations Can Snowball Muru Zhang, Ofir Press, William Merrill, Alisa Liu, Noah A. Smith arXiv 2023. [Paper] 22 May 2023\nLM vs LM: Detecting Factual Errors via Cross Examination Roi Cohen, May Hamri, Mor Geva, Amir Globerson arXiv 2023. [Paper] 22 May 2023\nHaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen arXiv 2023. [Paper] 19 May 2023\nCheck Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao arXiv 2023. [Paper] 23 Feb 2023\nRHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding Ziwei Ji, Zihan Liu, Nayeon Lee, Tiezheng Yu, Bryan Wilie, Min Zeng, Pascale Fung arXiv 2022. [Paper] 3 Dec 2022\nFaithDial: A Faithful Benchmark for Information-Seeking Dialogue Nouha Dziri, Ehsan Kamalloo, Sivan Milton, Osmar Zaiane, Mo Yu, Edoardo M. Ponti, Siva Reddy TACL 2022. [Paper] 22 Apr 2022\nSurvey of Hallucination in Natural Language Generation Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Wenliang Dai, Andrea Madotto, Pascale Fung arXiv 2022. [Paper] 8 Feb 2022",
@@ -816,7 +864,8 @@
                     "owner": "ictnlp",
                     "repo": "TruthX",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -831,7 +880,8 @@
                     "owner": "likenneth",
                     "repo": "honest_llama",
                     "stars": 581
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -846,7 +896,8 @@
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
                     "stars": 941
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "The Internal State of an LLM Knows When its Lying Amos Azaria, Tom Mitchell arXiv 2023. [Paper] 26 Apr 2023\nTruthful AI: Developing and governing AI that does not lie Owain Evans, Owen Cotton-Barratt, Lukas Finnveden, Adam Bales, Avital Balwit, Peter Wills, Luca Righetti, William Saunders arXiv 2021. [Paper] [Blog]13 Oct 2021\nMeasuring Reliability of Large Language Models through Semantic Consistency Harsh Raj, Domenic Rosati, Subhabrata Majumdar NeurIPS 2022 ML Safety Workshop. [Paper] 10 Nov 2022",
@@ -868,7 +919,8 @@
                     "owner": "Shark-NLP",
                     "repo": "OpenICL",
                     "stars": 589
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -883,7 +935,8 @@
                     "owner": "ezelikman",
                     "repo": "STaR",
                     "stars": 230
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -898,7 +951,8 @@
                     "owner": "xiye17",
                     "repo": "TextualExplInContext",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -912,8 +966,9 @@
                     "last_commit": "2024-02-06T02:34:32Z",
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4129
-                  }
+                    "stars": 4131
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -928,7 +983,8 @@
                     "owner": "microsoft",
                     "repo": "CodeT",
                     "stars": 678
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -943,7 +999,8 @@
                     "owner": "HazyResearch",
                     "repo": "ama_prompting",
                     "stars": 548
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -958,7 +1015,8 @@
                     "owner": "FranxYao",
                     "repo": "Complexity-Based-Prompting",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -973,7 +1031,8 @@
                     "owner": "ofirpress",
                     "repo": "self-ask",
                     "stars": 324
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -988,7 +1047,8 @@
                     "owner": "StonyBrookNLP",
                     "repo": "ircot",
                     "stars": 276
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "REFINER: Reasoning Feedback on Intermediate Representations Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings arXiv 2023. [Paper] 4 Apr 2023\nReliable Natural Language Understanding with Large Language Models and Answer Set Programming Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta arXiv 2023. [Paper] 7 Feb 2023\nSelf-Consistency Improves Chain of Thought Reasoning in Language Models Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou ICLR 2023. [Paper] 21 Mar 2022\nChain of Thought Prompting Elicits Reasoning in Large Language Models. Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny ZhouarXiv 2022. [Paper] 28 Jan 2022\nRationale-Augmented Ensembles in Language Models Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny ZhouarXiv 2022. [Paper] 2 Jul 2022\nOn Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang arXiv 2022. [Paper] 15 Dec 2022\nMathPrompter: Mathematical Reasoning using Large Language Models Shima Imani, Liang Du, Harsh Shrivastava arXiv 2023. [Paper] 4 Mar 2023",
@@ -1010,7 +1070,8 @@
                     "owner": "Lichang-Chen",
                     "repo": "InstructZero",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1025,7 +1086,8 @@
                     "owner": "UCSB-NLP-Chang",
                     "repo": "PromptBoosting",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1040,7 +1102,8 @@
                     "owner": "mingkaid",
                     "repo": "rl-prompt",
                     "stars": 366
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1055,7 +1118,8 @@
                     "owner": "shizhediao",
                     "repo": "Black-Box-Prompt-Learning",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1070,7 +1134,8 @@
                     "owner": "txsun1997",
                     "repo": "Black-Box-Tuning",
                     "stars": 277
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1085,7 +1150,8 @@
                     "owner": "txsun1997",
                     "repo": "Black-Box-Tuning",
                     "stars": 277
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1100,7 +1166,8 @@
                     "owner": "amazon-science",
                     "repo": "auto-cot",
                     "stars": 2046
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1115,7 +1182,8 @@
                     "owner": "shizhediao",
                     "repo": "automate-cot",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1130,7 +1198,8 @@
                     "owner": "keirp",
                     "repo": "automatic_prompt_engineer",
                     "stars": 1362
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1145,7 +1214,8 @@
                     "owner": "ChicagoHAI",
                     "repo": "active-example-selection",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1160,7 +1230,8 @@
                     "owner": "xlang-ai",
                     "repo": "icl-selective-annotation",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1175,7 +1246,8 @@
                     "owner": "OhadRubin",
                     "repo": "EPR",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Large Language Models as Optimizers Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen arXiv 2023. [Paper] Sep 7 2023\nGrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal EACL 2023. [Paper][Github] Mar 14 2022\nFantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp ACL 2022. [Paper]",
@@ -1197,7 +1269,8 @@
                     "owner": "mbzuai-nlp",
                     "repo": "LaMini-LM",
                     "stars": 823
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1212,7 +1285,8 @@
                     "owner": "madaan",
                     "repo": "self-refine",
                     "stars": 820
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1227,7 +1301,8 @@
                     "owner": "RenzeLou",
                     "repo": "awesome-instruction-learning",
                     "stars": 512
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1241,8 +1316,9 @@
                     "last_commit": "2023-03-27T18:18:51Z",
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4608
-                  }
+                    "stars": 4609
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1257,7 +1333,8 @@
                     "owner": "seonghyeonye",
                     "repo": "TAPP",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Constitutional AI: Harmlessness from AI Feedback Yuntao Bai, et al (Anthropic) arXiv 2022. [Paper] 15 Dec 2022\nDiscovering Language Model Behaviors with Model-Written Evaluations Ethan Perez et al. arXiv 2022. [Paper] 19 Dec 2022",
@@ -1279,7 +1356,8 @@
                     "owner": "TIGER-AI-Lab",
                     "repo": "Program-of-Thoughts",
                     "stars": 317
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1294,7 +1372,8 @@
                     "owner": "reasoning-machines",
                     "repo": "pal",
                     "stars": 526
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Internet-augmented language models through few-shot prompting for open-domain question answering Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev arXiv 2023. [Paper] 10 Mar 2023\nTALM: Tool Augmented Language Models Aaron Parisi, Yao Zhao, Noah Fiedel arXiv 2022. [Paper] 24 May 2022\nToolformer: Language Models Can Teach Themselves to Use Tool Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom arXiv 2023. [Paper] 9 Feb 2023",
@@ -1323,7 +1402,8 @@
                     "owner": "epfl-dlab",
                     "repo": "invariant-language-models",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1338,7 +1418,8 @@
                     "owner": "ChanLiang",
                     "repo": "ORIG",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": null,
@@ -1359,8 +1440,9 @@
                     "last_commit": "2026-08-27T07:10:09Z",
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1162
-                  }
+                    "stars": 1164
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1375,7 +1457,8 @@
                     "owner": "ChanLiang",
                     "repo": "PEARL",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 },
                 {
                   "node_type": "item",
@@ -1390,7 +1473,8 @@
                     "owner": "microsoft",
                     "repo": "robustlearn",
                     "stars": 508
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models Haoyu Liang, Youran Sun, Yunfeng Cai, Jun Zhu, Bo Zhang arXiv 2025. [Paper] 23 Jan 2025\nAdversarial Attacks on LLMs Lilian Weng [Blog] 25 Oct 2023\nPromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie arXiv 2023. [Paper][Github] 7 Jun 20223\nReliability Testing for Natural Language Processing Systems Samson Tan, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan ACL-IJCNLP 2021. [Paper] 06 May 2021",
@@ -1412,7 +1496,8 @@
                     "owner": "causalNLP",
                     "repo": "corr2cause",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
               "description": "Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning Antonia Creswell, Murray Shanahan, Irina Higgins ICLR 2023. [Paper] 19 May 2022\nInvestigating causal understanding in LLMs Marius Hobbhahn, Tom Lieberum, David Seiler NeurIPS 2022 Workshop. [Paper][Blog] 3 Oct 2022",
@@ -1429,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:38:22.907Z",
+    "last_updated": "2026-08-29T02:21:21.016Z",
     "original_repository_info": {
       "archived": false,
       "id": 616324616,
@@ -1437,7 +1522,7 @@
       "last_commit": "2026-06-05T04:29:39Z",
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 833
+      "stars": 834
     },
     "original_repository_sha": "493c8f3b432bc1fe665ebf2e7dd4e339f98799f2",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Uncertainty-Reliability-Robustness",
