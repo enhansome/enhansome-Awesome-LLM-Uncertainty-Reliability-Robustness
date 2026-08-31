@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-28T17:13:13Z",
-                "open_issues": 296,
+                "last_commit": "2026-08-31T20:01:28Z",
+                "open_issues": 292,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75625,
+                "stars": 75686,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 327,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19307,
+                "stars": 19347,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -88,7 +88,7 @@
                 "open_issues": 79,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1580,
+                "stars": 1588,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -220,7 +220,7 @@
                 "open_issues": 100,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2892,
+                "stars": 2895,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -509,11 +509,11 @@
                     "id": 968339993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-30T00:55:42Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-08-31T16:35:40Z",
+                    "open_issues": 20,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1193,
+                    "stars": 1194,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1086,7 +1086,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1125,
+                    "stars": 1126,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1107,7 +1107,7 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T21:48:41Z",
+                    "last_commit": "2026-08-31T23:12:51Z",
                     "open_issues": 5,
                     "owner": "fathom-lab",
                     "repo": "styxx",
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4134,
+                    "stars": 4137,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1557,7 +1557,7 @@
                     "open_issues": 13,
                     "owner": "StonyBrookNLP",
                     "repo": "ircot",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": [
                       "chain-of-thought",
                       "large-language-models",
@@ -1739,7 +1739,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2047,
+                    "stars": 2048,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -1940,7 +1940,7 @@
                     "open_issues": 0,
                     "owner": "RenzeLou",
                     "repo": "awesome-instruction-learning",
-                    "stars": 512,
+                    "stars": 511,
                     "topics": [
                       "awesome-list",
                       "datasets",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1168,
+                    "stars": 1171,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:57:09.742Z",
+    "last_updated": "2026-08-31T23:16:18.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
