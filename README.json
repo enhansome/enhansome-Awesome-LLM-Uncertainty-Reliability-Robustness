@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-05T01:42:43Z",
-                "open_issues": 285,
+                "open_issues": 284,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75834,
+                "stars": 75854,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 334,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19400,
+                "stars": 19412,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -220,7 +220,7 @@
                 "open_issues": 104,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -314,7 +314,7 @@
                 "open_issues": 5,
                 "owner": "robustness-gym",
                 "repo": "robustness-gym",
-                "stars": 446,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1290,7 +1290,7 @@
                     "open_issues": 8,
                     "owner": "ictnlp",
                     "repo": "TruthX",
-                    "stars": 144,
+                    "stars": 145,
                     "topics": [
                       "baichuan",
                       "chatglm",
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4156,
+                    "stars": 4159,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1179,
+                    "stars": 1181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:10:35.926Z",
+    "last_updated": "2026-09-08T21:57:03.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
