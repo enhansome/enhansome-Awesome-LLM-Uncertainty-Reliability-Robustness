@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-10T20:25:07Z",
-                "open_issues": 290,
+                "last_commit": "2026-09-11T21:19:32Z",
+                "open_issues": 287,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75895,
+                "stars": 75923,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 337,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19426,
+                "stars": 19436,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1330,7 +1330,7 @@
                     "open_issues": 6,
                     "owner": "likenneth",
                     "repo": "honest_llama",
-                    "stars": 583,
+                    "stars": 584,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1351,7 +1351,7 @@
                     "open_issues": 21,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 944,
+                    "stars": 945,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4160,
+                    "stars": 4163,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:43:56.552Z",
+    "last_updated": "2026-09-11T21:49:21.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
