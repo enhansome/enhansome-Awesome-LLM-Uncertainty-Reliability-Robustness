@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-11T21:19:32Z",
-                "open_issues": 287,
+                "open_issues": 289,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75923,
+                "stars": 75946,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 337,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19436,
+                "stars": 19444,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 3,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 629,
+                    "stars": 630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1330,7 +1330,7 @@
                     "open_issues": 6,
                     "owner": "likenneth",
                     "repo": "honest_llama",
-                    "stars": 584,
+                    "stars": 585,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4163,
+                    "stars": 4164,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1739,7 +1739,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2050,
+                    "stars": 2051,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -2056,7 +2056,7 @@
                     "open_issues": 7,
                     "owner": "reasoning-machines",
                     "repo": "pal",
-                    "stars": 527,
+                    "stars": 528,
                     "topics": [
                       "commonsense-reasoning",
                       "few-shot-learning",
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:49:21.860Z",
+    "last_updated": "2026-09-12T21:31:41.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",

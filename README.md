@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,923 | 🐛 287 | 🌐 Jupyter Notebook | 📅 2026-09-11] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,946 | 🐛 289 | 🌐 Jupyter Notebook | 📅 2026-09-11] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -143,12 +143,12 @@ In this blog post, as a brief overview of our existing work, we motivate these c
 
 **GPT-4 Technical Report** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,436 | 🐛 337 | 🌐 Python | 📅 2026-04-14] \
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,444 | 🐛 337 | 🌐 Python | 📅 2026-04-14] \
 16 Mar 2023
 
 **GPT-4 System Card** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,436 | 🐛 337 | 🌐 Python | 📅 2026-04-14]\
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,444 | 🐛 337 | 🌐 Python | 📅 2026-04-14]\
 15 Mar 2023
 
 ## Tutorial
@@ -724,7 +724,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.11747)]
 
 **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** \
 *Potsawee Manakul, Adian Liusie, Mark J. F. Gales* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.08896)] \[[Github](https://github.com/potsawee/selfcheckgpt) ⭐ 629 | 🐛 3 | 🌐 Python | 📅 2024-06-26] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.08896)] \[[Github](https://github.com/potsawee/selfcheckgpt) ⭐ 630 | 🐛 3 | 🌐 Python | 📅 2024-06-26] \
 8 Mar 2023
 
 **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback** \
@@ -763,7 +763,7 @@ arXiv 2024. \[[Paper](https://arxiv.org/abs/2402.17811)] \[[Github](https://gith
 
 **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \\
 *Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.03341)] \[[Github](https://github.com/likenneth/honest_llama) ⭐ 584 | 🐛 6 | 🌐 Python | 📅 2025-01-28] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.03341)] \[[Github](https://github.com/likenneth/honest_llama) ⭐ 585 | 🐛 6 | 🌐 Python | 📅 2025-01-28] \
 6 June 2023
 
 **The Internal State of an LLM Knows When its Lying** \
@@ -830,7 +830,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2207.00747)] \
 
 **ReAct: Synergizing Reasoning and Acting in Language Models** \
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* \
-ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)]\[[Github](https://github.com/ysymyth/ReAct) ⭐ 4,163 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[Project](https://react-lm.github.io/)] \
+ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)]\[[Github](https://github.com/ysymyth/ReAct) ⭐ 4,164 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[Project](https://react-lm.github.io/)] \
 6 Oct 2022
 
 **On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning** \
@@ -914,7 +914,7 @@ EMNLP 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.259/)] \[[Github]
 
 **Automatic Chain of Thought Prompting in Large Language Models** \
 *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
-ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03493)]\[[Github](https://github.com/amazon-science/auto-cot) ⭐ 2,050 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-03-13]\
+ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03493)]\[[Github](https://github.com/amazon-science/auto-cot) ⭐ 2,051 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-03-13]\
 7 Oct 2022
 
 **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data** \
@@ -997,7 +997,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.12588)]\[[Github](https://githu
 
 **PAL: Program-aided Language Models** \
 *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.10435)] \[[Github](https://github.com/reasoning-machines/pal) ⭐ 527 | 🐛 7 | 🌐 Python | 📅 2023-06-30] \[[Project](https://reasonwithpal.com/)] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.10435)] \[[Github](https://github.com/reasoning-machines/pal) ⭐ 528 | 🐛 7 | 🌐 Python | 📅 2023-06-30] \[[Project](https://reasonwithpal.com/)] \
 18 Nov 2022
 
 **TALM: Tool Augmented Language Models** \
@@ -1168,4 +1168,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
