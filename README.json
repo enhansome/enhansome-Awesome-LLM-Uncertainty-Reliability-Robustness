@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-12T23:35:37Z",
-                "open_issues": 292,
+                "last_commit": "2026-09-14T22:17:43Z",
+                "open_issues": 294,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75954,
+                "stars": 75980,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 339,
+                "open_issues": 340,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19444,
+                "stars": 19450,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -114,7 +114,7 @@
                 "open_issues": 6,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1609,
+                "stars": 1610,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -220,7 +220,7 @@
                 "open_issues": 105,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2907,
+                "stars": 2908,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -365,7 +365,7 @@
                     "open_issues": 0,
                     "owner": "AlexanderVNikitin",
                     "repo": "kernel-language-entropy",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": [
                       "hallucination-detection",
                       "large-language-models",
@@ -468,7 +468,7 @@
                     "open_issues": 3,
                     "owner": "google-deepmind",
                     "repo": "neural_testbed",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -509,11 +509,11 @@
                     "id": 968339993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T16:35:38Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-09-14T16:35:32Z",
+                    "open_issues": 24,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1198,
+                    "stars": 1199,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1107,8 +1107,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T01:24:56Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-14T22:25:12Z",
+                    "open_issues": 7,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4166,
+                    "stars": 4168,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1739,7 +1739,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2051,
+                    "stars": 2050,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1183,
+                    "stars": 1184,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2226,7 +2226,7 @@
                     "open_issues": 8,
                     "owner": "causalNLP",
                     "repo": "corr2cause",
-                    "stars": 115,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:32:29.628Z",
+    "last_updated": "2026-09-14T22:36:55.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2258,7 +2258,7 @@
       "open_issues": 6,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 835,
+      "stars": 836,
       "topics": [
         "awesome-list",
         "calibration",
