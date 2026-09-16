@@ -1,7 +1,7 @@
 # Awesome-LLM-Uncertainty-Reliability-Robustness with stars
 
 \
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,371 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges) ⭐ 163 | 🐛 2 | 📅 2026-04-26
 
@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 75,994 | 🐛 297 | 🌐 Jupyter Notebook | 📅 2026-09-15] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 76,017 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2026-09-16] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -143,12 +143,12 @@ In this blog post, as a brief overview of our existing work, we motivate these c
 
 **GPT-4 Technical Report** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,461 | 🐛 340 | 🌐 Python | 📅 2026-04-14] \
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,470 | 🐛 340 | 🌐 Python | 📅 2026-04-14] \
 16 Mar 2023
 
 **GPT-4 System Card** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,461 | 🐛 340 | 🌐 Python | 📅 2026-04-14]\
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,470 | 🐛 340 | 🌐 Python | 📅 2026-04-14]\
 15 Mar 2023
 
 ## Tutorial
@@ -170,7 +170,7 @@ COLLING 2022. \[[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 **Wider and Deeper LLM Networks are Fairer LLM Evaluators** \
 *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li* \
-arXiv 2023. \[[Paper](https://aps.arxiv.org/abs/2308.01862)]\[[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep) ⭐ 1,596 | 🐛 80 | 🌐 Python | 📅 2026-09-15] \
+arXiv 2023. \[[Paper](https://aps.arxiv.org/abs/2308.01862)]\[[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep) ⭐ 1,599 | 🐛 80 | 🌐 Python | 📅 2026-09-15] \
 3 Aug 2023
 
 **A Survey on Evaluation of Large Language Models** \
@@ -190,7 +190,7 @@ arXiv, 2023. \[[Paper](https://arxiv.org/abs/2304.08979)] \
 
 **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** \
 *Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, Haoming Jiang, Bing Yin, Xia Hu* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13712)]\[[Github](https://github.com/mooler0410/llmspracticalguide) ⭐ 10,206 | 🐛 17 | 📅 2026-04-08] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13712)]\[[Github](https://github.com/mooler0410/llmspracticalguide) ⭐ 10,207 | 🐛 17 | 📅 2026-04-08] \
 27 Apr 2023
 
 **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks** \
@@ -245,7 +245,7 @@ ACL 2021. \[[Paper](https://arxiv.org/abs/2101.04840)] \[[Github](https://github
 
 **Beyond Accuracy: Behavioral Testing of NLP models with CheckList** \
 *Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh* \
-ACL 2020. \[[Paper](https://arxiv.org/abs/2005.04118)]\[[Github](https://github.com/marcotcr/checklist) ⭐ 2,050 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09] \
+ACL 2020. \[[Paper](https://arxiv.org/abs/2005.04118)]\[[Github](https://github.com/marcotcr/checklist) ⭐ 2,049 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09] \
 8 May 2020
 
 ## Uncertainty
@@ -655,7 +655,7 @@ COLING 2020. \[[Paper](https://arxiv.org/abs/2012.02462)] \
 
 **Cognometry v0: 8-Benchmark Cross-Validated Hallucination Detection in Production LLMs** \
 Introduces *cognometry* — the empirical measurement of cognitive states in LLMs. 9-signal pooled LR (text, entity, knowledge grounding, 4 response-novelty variants, NLI contradiction via DeBERTa-v3-base-mnli) cross-validated on 8 benchmarks (HaluEval QA/Dialog/Summ, TruthfulQA, HaluBench DROP/PubMedQA/FinanceBench/RAGTruth). AUC 0.998 on HaluEval-QA; two below-chance results (DROP, FinanceBench) declared as published failure modes in the weights module. \
-\[[Paper](https://doi.org/10.5281/zenodo.19703527)] \[[Code](https://github.com/fathom-lab/styxx) ⭐ 15 | 🐛 8 | 🌐 Python | 📅 2026-09-15] \[[Manifesto](https://fathom.darkflobi.com/cognometry)]
+\[[Paper](https://doi.org/10.5281/zenodo.19703527)] \[[Code](https://github.com/fathom-lab/styxx) ⭐ 15 | 🐛 37 | 🌐 Python | 📅 2026-09-16] \[[Manifesto](https://fathom.darkflobi.com/cognometry)]
 
 **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
 *Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang* \
@@ -724,7 +724,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.11747)]
 
 **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** \
 *Potsawee Manakul, Adian Liusie, Mark J. F. Gales* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.08896)] \[[Github](https://github.com/potsawee/selfcheckgpt) ⭐ 630 | 🐛 3 | 🌐 Python | 📅 2024-06-26] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.08896)] \[[Github](https://github.com/potsawee/selfcheckgpt) ⭐ 631 | 🐛 3 | 🌐 Python | 📅 2024-06-26] \
 8 Mar 2023
 
 **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback** \
@@ -830,7 +830,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2207.00747)] \
 
 **ReAct: Synergizing Reasoning and Acting in Language Models** \
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* \
-ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)]\[[Github](https://github.com/ysymyth/ReAct) ⭐ 4,170 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[Project](https://react-lm.github.io/)] \
+ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)]\[[Github](https://github.com/ysymyth/ReAct) ⭐ 4,172 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[Project](https://react-lm.github.io/)] \
 6 Oct 2022
 
 **On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning** \
@@ -860,7 +860,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2210.00720)]\[[Github](https://githu
 
 **Measuring and Narrowing the Compositionality Gap in Language Models**\
 *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*\
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2210.03350)]\[[Github](https://github.com/ofirpress/self-ask) ⭐ 324 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-12-28]
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2210.03350)]\[[Github](https://github.com/ofirpress/self-ask) ⭐ 325 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-12-28]
 7 Oct 2022
 
 **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions** \
@@ -884,7 +884,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.03082)] \[[Github](https://gith
 
 **Promptboosting: Black-box text classification with ten forward passes** \
 *Bairu Hou, Joe O’Connor, Jacob Andreas, Shiyu Chang, Yang Zhang* \
-ICML 2023. \[[Paper](https://proceedings.mlr.press/v202/hou23b.html)]\[[Github](https://github.com/UCSB-NLP-Chang/PromptBoosting) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-09-05] \
+ICML 2023. \[[Paper](https://proceedings.mlr.press/v202/hou23b.html)]\[[Github](https://github.com/UCSB-NLP-Chang/PromptBoosting) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-09-05] \
 23 Jan 2023
 
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models** \
@@ -924,7 +924,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.12822)]\[[Github](https://githu
 
 **Large Language Models Are Human-Level Prompt Engineers** \
 *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba* \
-ICLR 2023. \[[Paper](https://arxiv.org/abs/2211.01910)] \[[Github](https://github.com/keirp/automatic_prompt_engineer) ⭐ 1,364 | 🐛 22 | 🌐 Python | 📅 2024-04-29] \
+ICLR 2023. \[[Paper](https://arxiv.org/abs/2211.01910)] \[[Github](https://github.com/keirp/automatic_prompt_engineer) ⭐ 1,365 | 🐛 22 | 🌐 Python | 📅 2024-04-29] \
 3 Nov 2022
 
 **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \
@@ -1068,7 +1068,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.03154)] \
 
 **Internal Safety Collapse in Frontier Large Language Models** \
 *Yutao Wu, Jie Zhang, Tianwei Zhang, Xingjun Ma* \
-arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,185 | 🐛 0 | 🌐 Python | 📅 2026-08-27] \
+arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,188 | 🐛 0 | 🌐 Python | 📅 2026-08-27] \
 4 Mar 2026
 
 **PEARL: Towards Permutation-Resilient LLMs** \
@@ -1168,4 +1168,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
