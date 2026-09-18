@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-17T19:50:17Z",
+                "last_commit": "2026-09-18T18:08:45Z",
                 "open_issues": 299,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76036,
+                "stars": 76060,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 340,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19472,
+                "stars": 19475,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -85,10 +85,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T07:18:45Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1599,
+                "stars": 1600,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -163,7 +163,7 @@
                 "open_issues": 17,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10207,
+                "stars": 10208,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -217,10 +217,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2912,
+                "stars": 2914,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -577,7 +577,7 @@
                     "open_issues": 0,
                     "owner": "parameterlab",
                     "repo": "apricot",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": [
                       "acl2024",
                       "calibration",
@@ -1107,8 +1107,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T03:50:04Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-09-18T21:40:12Z",
+                    "open_issues": 19,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4176,
+                    "stars": 4177,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1973,7 +1973,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4611,
+                    "stars": 4610,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1190,
+                    "stars": 1192,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:19:14.997Z",
+    "last_updated": "2026-09-18T21:45:37.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2258,7 +2258,7 @@
       "open_issues": 6,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 836,
+      "stars": 835,
       "topics": [
         "awesome-list",
         "calibration",
