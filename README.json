@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-18T18:08:45Z",
-                "open_issues": 299,
+                "open_issues": 301,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76060,
+                "stars": 76073,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 340,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19475,
+                "stars": 19480,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -163,7 +163,7 @@
                 "open_issues": 17,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10208,
+                "stars": 10209,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -415,7 +415,7 @@
                     "open_issues": 1,
                     "owner": "sylinrl",
                     "repo": "CalibratedMath",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1086,7 +1086,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1129,
+                    "stars": 1130,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1107,8 +1107,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T21:40:12Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-09-19T00:05:57Z",
+                    "open_issues": 21,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1351,7 +1351,7 @@
                     "open_issues": 21,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 946,
+                    "stars": 947,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4177,
+                    "stars": 4178,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2146,7 +2146,7 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-27T07:10:09Z",
+                    "last_commit": "2026-09-19T16:40:31Z",
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:45:37.156Z",
+    "last_updated": "2026-09-19T21:35:05.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
