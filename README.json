@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-18T18:08:45Z",
-                "open_issues": 301,
+                "last_commit": "2026-09-20T20:58:48Z",
+                "open_issues": 302,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76073,
+                "stars": 76092,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 340,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19480,
+                "stars": 19486,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -220,7 +220,7 @@
                 "open_issues": 106,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2914,
+                "stars": 2915,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -335,7 +335,7 @@
                 "open_issues": 11,
                 "owner": "marcotcr",
                 "repo": "checklist",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -513,7 +513,7 @@
                     "open_issues": 24,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1200,
+                    "stars": 1201,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1107,8 +1107,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T00:05:57Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-09-20T21:40:01Z",
+                    "open_issues": 22,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4178,
+                    "stars": 4179,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1739,7 +1739,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2050,
+                    "stars": 2051,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -1908,7 +1908,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 820,
+                    "stars": 822,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1192,
+                    "stars": 1193,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:35:05.094Z",
+    "last_updated": "2026-09-20T21:43:54.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2255,7 +2255,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-05T04:29:39Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
       "stars": 835,
