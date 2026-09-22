@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-21T15:36:00Z",
-                "open_issues": 303,
+                "open_issues": 302,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76111,
+                "stars": 76124,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 340,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19488,
+                "stars": 19491,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -88,7 +88,7 @@
                 "open_issues": 82,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -111,10 +111,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-13T02:09:22Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -220,7 +220,7 @@
                 "open_issues": 106,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2916,
+                "stars": 2921,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1086,7 +1086,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1131,
+                    "stars": 1132,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1107,8 +1107,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T20:35:37Z",
-                    "open_issues": 34,
+                    "last_commit": "2026-09-22T20:11:27Z",
+                    "open_issues": 39,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1167,7 +1167,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2025-10-14T22:00:23Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "tianyi-lab",
                     "repo": "HallusionBench",
                     "stars": 343,
@@ -1262,7 +1262,7 @@
                     "open_issues": 3,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 632,
+                    "stars": 631,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1330,7 +1330,7 @@
                     "open_issues": 6,
                     "owner": "likenneth",
                     "repo": "honest_llama",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4183,
+                    "stars": 4185,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1557,7 +1557,7 @@
                     "open_issues": 13,
                     "owner": "StonyBrookNLP",
                     "repo": "ircot",
-                    "stars": 277,
+                    "stars": 279,
                     "topics": [
                       "chain-of-thought",
                       "large-language-models",
@@ -1940,7 +1940,7 @@
                     "open_issues": 0,
                     "owner": "RenzeLou",
                     "repo": "awesome-instruction-learning",
-                    "stars": 511,
+                    "stars": 512,
                     "topics": [
                       "awesome-list",
                       "datasets",
@@ -1973,7 +1973,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4611,
+                    "stars": 4612,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1195,
+                    "stars": 1194,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:41:25.031Z",
+    "last_updated": "2026-09-22T22:21:21.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
