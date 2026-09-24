@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-23T14:24:37Z",
-                "open_issues": 298,
+                "open_issues": 300,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76141,
+                "stars": 76165,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 341,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19497,
+                "stars": 19503,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -88,7 +88,7 @@
                 "open_issues": 82,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1612,
+                "stars": 1611,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -163,7 +163,7 @@
                 "open_issues": 17,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10210,
+                "stars": 10211,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -1086,7 +1086,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1132,
+                    "stars": 1133,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4186,
+                    "stars": 4191,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2141,7 +2141,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "We built an adversarial codespace setup. Place any AI agent into a normal workflow inside it, and the agent will fill in whatever is missing.",
+                    "description": "[Neruips 2026] We built an adversarial codespace setup. Place any AI agent into a normal workflow inside it, and the agent will fill in whatever is missing.",
                     "homepage": "https://wuyoscar.github.io/Internal-Safety-Collapse/",
                     "id": 1170037043,
                     "language": "Python",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1196,
+                    "stars": 1199,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:24:35.899Z",
+    "last_updated": "2026-09-24T22:36:25.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
