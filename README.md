@@ -1,9 +1,9 @@
 # Awesome-LLM-Uncertainty-Reliability-Robustness with stars
 
 \
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,373 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges) ⭐ 163 | 🐛 3 | 📅 2026-04-26
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges) ⭐ 163 | 🐛 2 | 📅 2026-04-26
 
 This repository, called **UR2-LLMs** contains a collection of resources and papers on **Uncertainty**, **Reliability** and **Robustness** in **Large Language Models**.
 
@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 76,199 | 🐛 302 | 🌐 Jupyter Notebook | 📅 2026-09-25] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 76,215 | 🐛 302 | 🌐 Jupyter Notebook | 📅 2026-09-26] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -143,12 +143,12 @@ In this blog post, as a brief overview of our existing work, we motivate these c
 
 **GPT-4 Technical Report** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,507 | 🐛 341 | 🌐 Python | 📅 2026-04-14] \
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4.pdf)]\[[Cookbook](https://github.com/openai/evals) ⭐ 19,509 | 🐛 342 | 🌐 Python | 📅 2026-04-14] \
 16 Mar 2023
 
 **GPT-4 System Card** \
 *OpenAI* \
-arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,507 | 🐛 341 | 🌐 Python | 📅 2026-04-14]\
+arXiv 2023. \[[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] \[[Github](https://github.com/openai/evals) ⭐ 19,509 | 🐛 342 | 🌐 Python | 📅 2026-04-14]\
 15 Mar 2023
 
 ## Tutorial
@@ -763,7 +763,7 @@ arXiv 2024. \[[Paper](https://arxiv.org/abs/2402.17811)] \[[Github](https://gith
 
 **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \\
 *Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.03341)] \[[Github](https://github.com/likenneth/honest_llama) ⭐ 587 | 🐛 6 | 🌐 Python | 📅 2025-01-28] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.03341)] \[[Github](https://github.com/likenneth/honest_llama) ⭐ 588 | 🐛 6 | 🌐 Python | 📅 2025-01-28] \
 6 June 2023
 
 **The Internal State of an LLM Knows When its Lying** \
@@ -1068,7 +1068,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.03154)] \
 
 **Internal Safety Collapse in Frontier Large Language Models** \
 *Yutao Wu, Jie Zhang, Tianwei Zhang, Xingjun Ma* \
-arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,200 | 🐛 0 | 🌐 Python | 📅 2026-09-19] \
+arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23509)]\[[Github](https://github.com/wuyoscar/ISC-Bench) ⭐ 1,201 | 🐛 0 | 🌐 Python | 📅 2026-09-19] \
 4 Mar 2026
 
 **PEARL: Towards Permutation-Resilient LLMs** \
@@ -1168,4 +1168,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

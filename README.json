@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-25T22:07:39Z",
+                "last_commit": "2026-09-26T03:01:07Z",
                 "open_issues": 302,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76199,
+                "stars": 76215,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 341,
+                "open_issues": 342,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19507,
+                "stars": 19509,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1330,7 +1330,7 @@
                     "open_issues": 6,
                     "owner": "likenneth",
                     "repo": "honest_llama",
-                    "stars": 587,
+                    "stars": 588,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1200,
+                    "stars": 1201,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:35:54.196Z",
+    "last_updated": "2026-09-26T22:03:10.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
