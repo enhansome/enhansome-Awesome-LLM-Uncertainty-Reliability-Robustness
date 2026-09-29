@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-26T03:01:07Z",
-                "open_issues": 303,
+                "last_commit": "2026-09-29T19:13:15Z",
+                "open_issues": 304,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76251,
+                "stars": 76266,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 343,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19517,
+                "stars": 19524,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -142,7 +142,7 @@
                 "open_issues": 15,
                 "owner": "AI-secure",
                 "repo": "DecodingTrust",
-                "stars": 316,
+                "stars": 317,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -220,7 +220,7 @@
                 "open_issues": 108,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2924,
+                "stars": 2927,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -464,7 +464,7 @@
                     "id": 413355924,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T16:58:19Z",
+                    "last_commit": "2026-09-29T09:16:40Z",
                     "open_issues": 3,
                     "owner": "google-deepmind",
                     "repo": "neural_testbed",
@@ -510,7 +510,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T16:35:13Z",
-                    "open_issues": 25,
+                    "open_issues": 29,
                     "owner": "cvs-health",
                     "repo": "uqlm",
                     "stars": 1205,
@@ -1107,8 +1107,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T18:53:09Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-09-29T20:27:03Z",
+                    "open_issues": 41,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1446,7 +1446,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4195,
+                    "stars": 4198,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1973,7 +1973,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4612,
+                    "stars": 4611,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2146,11 +2146,11 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-27T08:14:01Z",
+                    "last_commit": "2026-09-29T01:00:29Z",
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1202,
+                    "stars": 1204,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2198,7 +2198,7 @@
                     "open_issues": 11,
                     "owner": "microsoft",
                     "repo": "robustlearn",
-                    "stars": 509,
+                    "stars": 510,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:52:16.066Z",
+    "last_updated": "2026-09-29T23:05:07.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2258,7 +2258,7 @@
       "open_issues": 8,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 834,
+      "stars": 835,
       "topics": [
         "awesome-list",
         "calibration",
