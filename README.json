@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:08:02Z",
-                "open_issues": 308,
+                "last_commit": "2026-10-02T14:49:58Z",
+                "open_issues": 311,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76300,
+                "stars": 76319,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 343,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19540,
+                "stars": 19546,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -163,7 +163,7 @@
                 "open_issues": 17,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10209,
+                "stars": 10208,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -513,7 +513,7 @@
                     "open_issues": 26,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1206,
+                    "stars": 1207,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1262,7 +1262,7 @@
                     "open_issues": 4,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 632,
+                    "stars": 633,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1973,7 +1973,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4613,
+                    "stars": 4612,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2150,7 +2150,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1195,
+                    "stars": 1196,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2246,7 +2246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:18:29.436Z",
+    "last_updated": "2026-10-02T23:07:46.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
