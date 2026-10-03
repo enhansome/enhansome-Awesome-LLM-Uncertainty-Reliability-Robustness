@@ -105,7 +105,7 @@ nice blog -->
 
 **OpenAI's Cookbook on Techniques to Improve Reliability** \
 *OpenAI* \
-\[[Github](https://github.com/openai/openai-cookbook) ⭐ 76,319 | 🐛 311 | 🌐 Jupyter Notebook | 📅 2026-10-02] \
+\[[Github](https://github.com/openai/openai-cookbook) ⭐ 76,321 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2026-10-03] \
 18 Mar 2023
 
 **GPT/calibration tag** \
@@ -200,7 +200,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.00293)]\[[Github](https://githu
 
 **Holistic Evaluation of Language Models** \
 *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.09110)] \[[Website](https://crfm.stanford.edu/helm/latest/)] \[[Github](https://github.com/stanford-crfm/helm) ⭐ 2,930 | 🐛 110 | 🌐 Python | 📅 2026-09-01] \[[Blog](https://crfm.stanford.edu/2022/11/17/helm.html)] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.09110)] \[[Website](https://crfm.stanford.edu/helm/latest/)] \[[Github](https://github.com/stanford-crfm/helm) ⭐ 2,931 | 🐛 110 | 🌐 Python | 📅 2026-09-01] \[[Blog](https://crfm.stanford.edu/2022/11/17/helm.html)] \
 16 Nov 2022
 
 **Prompting GPT-3 To Be Reliable** \
@@ -773,7 +773,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13734)] \
 
 **TruthfulQA: Measuring How Models Mimic Human Falsehoods** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
-ACL 2022. \[[Paper](https://arxiv.org/abs/2109.07958)] \[[Github](https://github.com/sylinrl/TruthfulQA) ⭐ 948 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2025-01-16] \[[Blog](https://www.lesswrong.com/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models)] \
+ACL 2022. \[[Paper](https://arxiv.org/abs/2109.07958)] \[[Github](https://github.com/sylinrl/TruthfulQA) ⭐ 949 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2025-01-16] \[[Blog](https://www.lesswrong.com/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models)] \
 8 Sep 2021
 
 **Truthful AI: Developing and governing AI that does not lie** \
@@ -965,7 +965,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10475)]\[[Github](https://githu
 
 **Self-Instruct: Aligning Language Model with Self Generated Instructions** \
 *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2212.10560)] \[[Github](https://github.com/yizhongw/self-instruct) ⭐ 4,612 | 🐛 13 | 🌐 Python | 📅 2023-03-27] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2212.10560)] \[[Github](https://github.com/yizhongw/self-instruct) ⭐ 4,613 | 🐛 13 | 🌐 Python | 📅 2023-03-27] \
 20 Dec 2022
 
 **Constitutional AI: Harmlessness from AI Feedback** \
@@ -1168,4 +1168,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
