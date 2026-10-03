@@ -21,7 +21,7 @@
                 "open_issues": 312,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76321,
+                "stars": 76330,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 343,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19546,
+                "stars": 19551,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -72,6 +72,36 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "AI data agent reliability tests AI Analyst Lab, Shane Butler Logs, prompts and synthetic data showing fresh ChatGPT and Claude Code sessions choosing different metric definitions for the same data question. GitHub 2026. [Github",
+              "description": "] Sep 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Prompts, raw outputs and synthetic data from our September 2026 reliability tests of ChatGPT's Data agent and Claude Code on data questions.",
+                "homepage": "https://aianalystlab.ai/why-ai-gives-different-answers/",
+                "id": 1389884960,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-26T23:47:29Z",
+                "open_issues": 0,
+                "owner": "ai-analyst-lab",
+                "repo": "ai-data-agent-reliability-tests",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "ai-evaluation",
+                  "analytics",
+                  "chatgpt",
+                  "claude-code",
+                  "data-analysis",
+                  "llm-evaluation",
+                  "reproducibility"
+                ]
+              },
+              "first_seen": "2026-10-03T22:16:39.770Z"
+            },
             {
               "node_type": "item",
               "title": "Wider and Deeper LLM Networks are Fairer LLM Evaluators Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li arXiv 2023. [Paper",
@@ -217,7 +247,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2931,
@@ -509,7 +539,7 @@
                     "id": 968339993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T20:57:52Z",
+                    "last_commit": "2026-10-03T13:31:07Z",
                     "open_issues": 26,
                     "owner": "cvs-health",
                     "repo": "uqlm",
@@ -534,12 +564,44 @@
                   "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
-              "description": "DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang arXiv 2026. [Paper] 24 Jan 2026\nBLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models Yibin Wang, Haizhou Shi, Ligong Han, Dimitris Metaxas, Hao Wang arXiv 2024. [Paper] 18 Jun 2024\nUncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach Linyu Liu, Yu Pan, Xiaocheng Li, Guanting Chen arXiv 2024. [Paper] 24 Apr 2024\nMARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs Bakman et al. ACL 2024. [Paper] 19 Feb 2024\nShifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models Jinhao Duan, Hao Cheng, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu arXiv 2023. [Paper] 9 Oct 2023\nLook Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models Yuheng Huang, Jiayang Song, Zhijie Wang, Shengming Zhao, Huaming Chen, Felix Juefei-Xu, Lei Ma arXiv 2023. [Paper] 16 Jul 2023\nQuantifying Uncertainty in Natural Language Explanations of Large Language Models Sree Harsha Tanneru, Chirag Agarwal, Himabindu Lakkaraju arXiv 2023. [Paper] 6 Nov 2023\nConformal Autoregressive Generation: Beam Search with Coverage Guarantees Nicolas Deutschmann, Marvin Alberts, María Rodríguez Martínez arXiv 2023. [Paper] 7 Sep 2023\nQuantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness Jiuhai Chen, Jonas Mueller arXiv 2023. [Paper] 30 Aug 2023\nUncertainty in Natural Language Generation: From Theory to Applications Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz arXiv 2023. [Paper] 28 July 2023\nHuman Uncertainty in Concept-Based AI Systems Katherine M. Collins, Matthew Barker, Mateo Espinosa Zarlenga, Naveen Raman, Umang Bhatt, Mateja Jamnik, Ilia Sucholutsky, Adrian Weller, Krishnamurthy Dvijotham arXiv 2023. [Paper] 22 Mar 2023\nNavigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto arXiv 2023. [Paper] 25 Feb 2023\nDEUP: Direct Epistemic Uncertainty Prediction Salem Lahlou, Moksh Jain, Hadi Nekoei, Victor Ion Butoi, Paul Bertin, Jarrid Rector-Brooks, Maksym Korablyov, Yoshua Bengio TMLR 2023. [Paper] 3 Feb 2023\nOn Compositional Uncertainty Quantification for Seq2seq Graph Parsing Zi Lin, Du Phan, Panupong Pasupat, Jeremiah Zhe Liu, Jingbo Shang ICLR 2023. [Paper] 1 Feb 2023\nNeural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification Zi Lin, Jeremiah Liu, Jingbo Shang EMNLP 2022. [Paper] 16 Jan 2023\nSemantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation Lorenz Kuhn, Yarin Gal, Sebastian Farquhar ICLR 2023. [Paper] 19 Feb 2022\nUncertainty Estimation for Language Reward Models Adam Gleave, Geoffrey Irving arXiv 2022. [Paper] 14 Mar 2022\nUncertainty Estimation and Reduction of Pre-trained Models for Text Regression Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor TACL 2022. [Paper] Jun 2022\nUncertainty Estimation in Autoregressive Structured Prediction Andrey Malinin, Mark Gales ICLR 2021. [Paper] 18 Feb 2020\nUnsupervised Quality Estimation for Neural Machine Translation Marina Fomicheva, Shuo Sun, Lisa Yankovskaya, Frédéric Blain, Francisco Guzmán, Mark Fishel, Nikolaos Aletras, Vishrav Chaudhary, Lucia Specia TACL 2020. [Paper][Dataset] 21 May 2020\nAnalyzing Uncertainty in Neural Machine Translation Myle Ott, Michael Auli, David Grangier, Marc’Aurelio Ranzato ICML 2018. [Paper] 2018",
+              "description": "Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration Linhao Zhong, Linyu Wu, Wen Wang, Yuling Xi, Chenchen Jing, Jiaheng Zhang, Hao Chen, Chunhua Shen ACL 2026. [Paper] 3 Mar 2026\nDRIFT: Detecting Representational Inconsistencies for Factual Truthfulness Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang arXiv 2026. [Paper] 24 Jan 2026\nBLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models Yibin Wang, Haizhou Shi, Ligong Han, Dimitris Metaxas, Hao Wang arXiv 2024. [Paper] 18 Jun 2024\nUncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach Linyu Liu, Yu Pan, Xiaocheng Li, Guanting Chen arXiv 2024. [Paper] 24 Apr 2024\nMARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs Bakman et al. ACL 2024. [Paper] 19 Feb 2024\nShifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models Jinhao Duan, Hao Cheng, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu arXiv 2023. [Paper] 9 Oct 2023\nLook Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models Yuheng Huang, Jiayang Song, Zhijie Wang, Shengming Zhao, Huaming Chen, Felix Juefei-Xu, Lei Ma arXiv 2023. [Paper] 16 Jul 2023\nQuantifying Uncertainty in Natural Language Explanations of Large Language Models Sree Harsha Tanneru, Chirag Agarwal, Himabindu Lakkaraju arXiv 2023. [Paper] 6 Nov 2023\nConformal Autoregressive Generation: Beam Search with Coverage Guarantees Nicolas Deutschmann, Marvin Alberts, María Rodríguez Martínez arXiv 2023. [Paper] 7 Sep 2023\nQuantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness Jiuhai Chen, Jonas Mueller arXiv 2023. [Paper] 30 Aug 2023\nUncertainty in Natural Language Generation: From Theory to Applications Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz arXiv 2023. [Paper] 28 July 2023\nHuman Uncertainty in Concept-Based AI Systems Katherine M. Collins, Matthew Barker, Mateo Espinosa Zarlenga, Naveen Raman, Umang Bhatt, Mateja Jamnik, Ilia Sucholutsky, Adrian Weller, Krishnamurthy Dvijotham arXiv 2023. [Paper] 22 Mar 2023\nNavigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto arXiv 2023. [Paper] 25 Feb 2023\nDEUP: Direct Epistemic Uncertainty Prediction Salem Lahlou, Moksh Jain, Hadi Nekoei, Victor Ion Butoi, Paul Bertin, Jarrid Rector-Brooks, Maksym Korablyov, Yoshua Bengio TMLR 2023. [Paper] 3 Feb 2023\nOn Compositional Uncertainty Quantification for Seq2seq Graph Parsing Zi Lin, Du Phan, Panupong Pasupat, Jeremiah Zhe Liu, Jingbo Shang ICLR 2023. [Paper] 1 Feb 2023\nNeural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification Zi Lin, Jeremiah Liu, Jingbo Shang EMNLP 2022. [Paper] 16 Jan 2023\nSemantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation Lorenz Kuhn, Yarin Gal, Sebastian Farquhar ICLR 2023. [Paper] 19 Feb 2022\nUncertainty Estimation for Language Reward Models Adam Gleave, Geoffrey Irving arXiv 2022. [Paper] 14 Mar 2022\nUncertainty Estimation and Reduction of Pre-trained Models for Text Regression Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor TACL 2022. [Paper] Jun 2022\nUncertainty Estimation in Autoregressive Structured Prediction Andrey Malinin, Mark Gales ICLR 2021. [Paper] 18 Feb 2020\nUnsupervised Quality Estimation for Neural Machine Translation Marina Fomicheva, Shuo Sun, Lisa Yankovskaya, Frédéric Blain, Francisco Guzmán, Mark Fishel, Nikolaos Aletras, Vishrav Chaudhary, Lucia Specia TACL 2020. [Paper][Dataset] 21 May 2020\nAnalyzing Uncertainty in Neural Machine Translation Myle Ott, Michael Auli, David Grangier, Marc’Aurelio Ranzato ICML 2018. [Paper] 2018",
               "node_type": "group",
               "title": "Uncertainty Estimation"
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fabrication on absent fields: a pre-registered six-arm document-extraction bake-off Velrim Zenodo 2026. [Article",
+                  "description": "] [Code] [DOI] Sep 2026",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Fields that aren't in the document get made up 11 to 40% of the time depending on the extraction API. Ours does it too. We tested six of them on 124 real documents and put every raw output in here, so you can rescore it yourself without any API keys.",
+                    "homepage": "https://velrim.com/research/fabrication-on-absent-fields",
+                    "id": 1332364626,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-02T20:10:39Z",
+                    "open_issues": 0,
+                    "owner": "velrimhq",
+                    "repo": "velrim-eval",
+                    "stars": 2,
+                    "topics": [
+                      "benchmark",
+                      "calibration",
+                      "cli",
+                      "document-extraction",
+                      "evaluation",
+                      "hallucination",
+                      "information-extraction",
+                      "llm",
+                      "ocr",
+                      "pdf"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T22:16:39.770Z"
+                },
                 {
                   "node_type": "item",
                   "title": "Similarity-Distance-Magnitude Universal Verification Allen Schmaltz arXiv 2025. [Paper",
@@ -655,7 +717,7 @@
                   "first_seen": "2026-08-29T02:21:21.016Z"
                 }
               ],
-              "description": "REFUTE: Reasoning Over Evidence — scientific critique & epistemic calibration BGPT HF 2026. [Technical report][Dataset][Leaderboard] Jun 2026\nBatch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering Han Zhou, Xingchen Wan, Lev Proleev, Diana Mincu, Jilin Chen, Katherine Heller, Subhrajit Roy ICLR 2024. [Paper] 24 Jan 2024\nDo Large Language Models Know What They Don't Know? Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang arXiv 2023. [Paper] 29 May 2023\nJust Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D. Manning arXiv 2023. [Paper] 24 May 2023\nTowards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4 Kellin Pelrine, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Reihaneh Rabbany arXiv 2023. [Paper] 24 May 2023\nCalibrated Interpretation: Confidence Estimation in Semantic Parsing Elias Stengel-Eskin, Benjamin Van Durme arXiv 2022. [Paper] [Github] 14 Nov 2022.\nCalibrating Sequence likelihood Improves Conditional Language Generation Yao Zhao, Misha Khalman, Rishabh Joshi, Shashi Narayan, Mohammad Saleh, Peter J. Liu ICLR 2023. [Paper]30 Sep 2022\nCalibrated Selective Classification Adam Fisch, Tommi Jaakkola, Regina Barzilay TMLR 2022. [Paper] 25 Aug 2022\nReducing conversational agents' overconfidence through linguistic calibration Sabrina J. Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau NAACL 2022. [Paper] 22 Jun 2022\nRe-Examining Calibration: The Case of Question Answering Chenglei Si, Chen Zhao, Sewon Min, Jordan Boyd-Graber EMNLP 2022 Findings. [Paper] 25 May 2022\nTowards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty Zi Lin, Jeremiah Liu, Jingbo Shang ACL Fingings 2022. [Paper] 22 May 2022\nUncertainty-aware machine translation evaluation Taisiya Glushkova, Chrysoula Zerva, Ricardo Rei, André F. T. Martins EMNLP 2021. [Paper] 13 Sep 2021",
+              "description": "REFUTE: Reasoning Over Evidence — scientific critique & epistemic calibration BGPT HF 2026. [Technical report][Dataset][Leaderboard] Jun 2026\nThe Asymmetric Burden of Proof: LLMs Show a Null-Result Asymmetry in a Matched-Vignette Benchmark Rolando Bosch Working paper 2026. [Paper] 4 Mar 2026\nBatch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering Han Zhou, Xingchen Wan, Lev Proleev, Diana Mincu, Jilin Chen, Katherine Heller, Subhrajit Roy ICLR 2024. [Paper] 24 Jan 2024\nDo Large Language Models Know What They Don't Know? Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang arXiv 2023. [Paper] 29 May 2023\nJust Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D. Manning arXiv 2023. [Paper] 24 May 2023\nTowards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4 Kellin Pelrine, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Reihaneh Rabbany arXiv 2023. [Paper] 24 May 2023\nCalibrated Interpretation: Confidence Estimation in Semantic Parsing Elias Stengel-Eskin, Benjamin Van Durme arXiv 2022. [Paper] [Github] 14 Nov 2022.\nCalibrating Sequence likelihood Improves Conditional Language Generation Yao Zhao, Misha Khalman, Rishabh Joshi, Shashi Narayan, Mohammad Saleh, Peter J. Liu ICLR 2023. [Paper]30 Sep 2022\nCalibrated Selective Classification Adam Fisch, Tommi Jaakkola, Regina Barzilay TMLR 2022. [Paper] 25 Aug 2022\nReducing conversational agents' overconfidence through linguistic calibration Sabrina J. Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau NAACL 2022. [Paper] 22 Jun 2022\nRe-Examining Calibration: The Case of Question Answering Chenglei Si, Chen Zhao, Sewon Min, Jordan Boyd-Graber EMNLP 2022 Findings. [Paper] 25 May 2022\nTowards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty Zi Lin, Jeremiah Liu, Jingbo Shang ACL Fingings 2022. [Paper] 22 May 2022\nUncertainty-aware machine translation evaluation Taisiya Glushkova, Chrysoula Zerva, Ricardo Rei, André F. T. Martins EMNLP 2021. [Paper] 13 Sep 2021",
               "node_type": "group",
               "title": "Calibration"
             },
@@ -1262,7 +1324,7 @@
                     "open_issues": 4,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 633,
+                    "stars": 634,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1973,7 +2035,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4613,
+                    "stars": 4612,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2246,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:24.785Z",
+    "last_updated": "2026-10-03T22:16:39.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2254,8 +2316,8 @@
       "id": 616324616,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-06-05T04:29:39Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-03T15:58:09Z",
+      "open_issues": 4,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
       "stars": 835,
@@ -2279,7 +2341,7 @@
         "uncertainty-quantification"
       ]
     },
-    "original_repository_sha": "493c8f3b432bc1fe665ebf2e7dd4e339f98799f2",
+    "original_repository_sha": "5a5353b92982e1d14e577a4f60e1026e62b27ffb",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Uncertainty-Reliability-Robustness",
     "enhanced_repository_description": null,
     "title": "Awesome-LLM-Uncertainty-Reliability-Robustness with stars"
