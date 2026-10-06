@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:49:08Z",
+                "last_commit": "2026-10-06T02:10:44Z",
                 "open_issues": 320,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76356,
+                "stars": 76362,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19558,
+                "stars": 19560,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -739,7 +739,7 @@
                     "open_issues": 2,
                     "owner": "gankim",
                     "repo": "tree-of-clarifications",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": [
                       "ambiguous-qa",
                       "gpt-3",
@@ -1169,7 +1169,7 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T23:59:54Z",
+                    "last_commit": "2026-10-06T01:47:28Z",
                     "open_issues": 59,
                     "owner": "fathom-lab",
                     "repo": "styxx",
@@ -2035,7 +2035,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4613,
+                    "stars": 4612,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2260,7 +2260,7 @@
                     "open_issues": 11,
                     "owner": "microsoft",
                     "repo": "robustlearn",
-                    "stars": 509,
+                    "stars": 510,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:53:56.488Z",
+    "last_updated": "2026-10-06T10:33:51.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
