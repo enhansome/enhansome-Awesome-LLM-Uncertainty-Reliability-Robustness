@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-06T02:10:44Z",
-                "open_issues": 320,
+                "open_issues": 323,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76362,
+                "stars": 76366,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -193,7 +193,7 @@
                 "open_issues": 17,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10207,
+                "stars": 10206,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -250,7 +250,7 @@
                 "open_issues": 112,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2934,
+                "stars": 2935,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -543,7 +543,7 @@
                     "open_issues": 26,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1207,
+                    "stars": 1206,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1148,7 +1148,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1134,
+                    "stars": 1136,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1535,7 +1535,7 @@
                     "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "CodeT",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1949,7 +1949,7 @@
                     "open_issues": 6,
                     "owner": "mbzuai-nlp",
                     "repo": "LaMini-LM",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2035,7 +2035,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4612,
+                    "stars": 4613,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2212,7 +2212,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1199,
+                    "stars": 1198,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:51.238Z",
+    "last_updated": "2026-10-06T23:10:35.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2320,7 +2320,7 @@
       "open_issues": 4,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 835,
+      "stars": 836,
       "topics": [
         "awesome-list",
         "calibration",
