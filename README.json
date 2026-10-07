@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-06T02:10:44Z",
-                "open_issues": 323,
+                "last_commit": "2026-10-07T10:05:54Z",
+                "open_issues": 320,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76366,
+                "stars": 76413,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 345,
+                "open_issues": 346,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19560,
+                "stars": 19569,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -193,7 +193,7 @@
                 "open_issues": 17,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10206,
+                "stars": 10205,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -539,11 +539,11 @@
                     "id": 968339993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T20:55:39Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-07T19:57:32Z",
+                    "open_issues": 27,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1206,
+                    "stars": 1207,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -608,7 +608,7 @@
                   "description": "] [Github] 27 Feb 2025",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "Research code repository for the paper \"Similarity-Distance-Magnitude Universal Verification\"",
                     "homepage": null,
                     "id": 933097733,
@@ -669,7 +669,7 @@
                     "open_issues": 4,
                     "owner": "tonyzhaozh",
                     "repo": "few-shot-learning",
-                    "stars": 359,
+                    "stars": 360,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -920,7 +920,7 @@
                     "open_issues": 0,
                     "owner": "bonaventuredossou",
                     "repo": "MLM_AL",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1169,8 +1169,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T01:47:28Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-10-07T20:42:41Z",
+                    "open_issues": 60,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1508,7 +1508,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4201,
+                    "stars": 4204,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1535,7 +1535,7 @@
                     "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "CodeT",
-                    "stars": 678,
+                    "stars": 677,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1801,7 +1801,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2052,
+                    "stars": 2051,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -2212,7 +2212,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1198,
+                    "stars": 1199,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:10:35.987Z",
+    "last_updated": "2026-10-07T23:39:46.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
