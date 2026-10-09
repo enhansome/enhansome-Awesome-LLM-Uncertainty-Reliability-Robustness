@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-08T20:57:54Z",
-                "open_issues": 319,
+                "last_commit": "2026-10-09T19:47:32Z",
+                "open_issues": 315,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76470,
+                "stars": 76512,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 346,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19577,
+                "stars": 19581,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -144,7 +144,7 @@
                 "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1612,
+                "stars": 1611,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -250,7 +250,7 @@
                 "open_issues": 112,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2934,
+                "stars": 2935,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -344,7 +344,7 @@
                 "open_issues": 5,
                 "owner": "robustness-gym",
                 "repo": "robustness-gym",
-                "stars": 447,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1508,7 +1508,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4207,
+                    "stars": 4214,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:50:04.889Z",
+    "last_updated": "2026-10-09T23:23:29.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
