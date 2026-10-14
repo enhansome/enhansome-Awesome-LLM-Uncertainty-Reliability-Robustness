@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-13T02:04:58Z",
+                "last_commit": "2026-10-14T15:14:21Z",
                 "open_issues": 318,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76596,
+                "stars": 76605,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 348,
+                "open_issues": 349,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19598,
+                "stars": 19604,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -250,7 +250,7 @@
                 "open_issues": 114,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2942,
+                "stars": 2943,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -543,7 +543,7 @@
                     "open_issues": 25,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1210,
+                    "stars": 1209,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1413,7 +1413,7 @@
                     "open_issues": 22,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 951,
+                    "stars": 952,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1508,7 +1508,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4220,
+                    "stars": 4222,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2208,11 +2208,11 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-08T11:20:21Z",
+                    "last_commit": "2026-10-14T16:28:12Z",
                     "open_issues": 1,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1211,
+                    "stars": 1300,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:21:43.617Z",
+    "last_updated": "2026-10-14T22:27:34.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2320,7 +2320,7 @@
       "open_issues": 4,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 838,
+      "stars": 839,
       "topics": [
         "awesome-list",
         "calibration",
