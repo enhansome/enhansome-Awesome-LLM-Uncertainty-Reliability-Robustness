@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-14T15:14:21Z",
-                "open_issues": 317,
+                "last_commit": "2026-10-16T16:19:43Z",
+                "open_issues": 318,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76631,
+                "stars": 76652,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 348,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19609,
+                "stars": 19613,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -144,7 +144,7 @@
                 "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -250,7 +250,7 @@
                 "open_issues": 114,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2945,
+                "stars": 2947,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1148,7 +1148,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1138,
+                    "stars": 1139,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1466,7 +1466,7 @@
                     "open_issues": 1,
                     "owner": "ezelikman",
                     "repo": "STaR",
-                    "stars": 234,
+                    "stars": 233,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1508,7 +1508,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4223,
+                    "stars": 4225,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1619,7 +1619,7 @@
                     "open_issues": 13,
                     "owner": "StonyBrookNLP",
                     "repo": "ircot",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": [
                       "chain-of-thought",
                       "large-language-models",
@@ -1851,7 +1851,7 @@
                     "open_issues": 22,
                     "owner": "keirp",
                     "repo": "automatic_prompt_engineer",
-                    "stars": 1366,
+                    "stars": 1367,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2208,11 +2208,11 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-15T20:55:05Z",
+                    "last_commit": "2026-10-16T05:13:46Z",
                     "open_issues": 1,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1367,
+                    "stars": 1526,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T22:32:47.936Z",
+    "last_updated": "2026-10-16T22:09:20.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
