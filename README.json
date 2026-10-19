@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-18T16:46:08Z",
-                "open_issues": 324,
+                "last_commit": "2026-10-19T18:31:06Z",
+                "open_issues": 322,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76682,
+                "stars": 76704,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 348,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19616,
+                "stars": 19620,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -114,11 +114,11 @@
                 "id": 514217147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T07:18:45Z",
+                "last_commit": "2026-10-19T07:53:20Z",
                 "open_issues": 83,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1607,
+                "stars": 1608,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -144,7 +144,7 @@
                 "open_issues": 8,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
-                "stars": 1614,
+                "stars": 1615,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -219,7 +219,7 @@
                 "open_issues": 6,
                 "owner": "textflint",
                 "repo": "textflint",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "adversarial-samples",
                   "attack",
@@ -250,7 +250,7 @@
                 "open_issues": 117,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2949,
+                "stars": 2952,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -313,7 +313,7 @@
                 "open_issues": 6,
                 "owner": "textflint",
                 "repo": "textflint",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "adversarial-samples",
                   "attack",
@@ -543,7 +543,7 @@
                     "open_issues": 25,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1210,
+                    "stars": 1211,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1324,7 +1324,7 @@
                     "open_issues": 4,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 635,
+                    "stars": 636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1508,7 +1508,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4231,
+                    "stars": 4234,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1801,7 +1801,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2054,
+                    "stars": 2055,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -1970,7 +1970,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2212,7 +2212,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1683,
+                    "stars": 1805,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:38:36.648Z",
+    "last_updated": "2026-10-19T22:58:46.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
