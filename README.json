@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-19T18:31:06Z",
-                "open_issues": 322,
+                "last_commit": "2026-10-20T22:20:29Z",
+                "open_issues": 326,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76704,
+                "stars": 76721,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -104,6 +104,35 @@
             },
             {
               "node_type": "item",
+              "title": "Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation Mohsen Hariri, Amirhossein Samandar, Michael Hinczewski, Vipin Chaudhary ICLR 2026. [Paper",
+              "description": "][Github] 5 Oct 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bayes@N [ICLR'26], Ranking LLMs [ACL'26 Main]: Statistical evaluation, comparison, and ranking of Large Language Models",
+                "homepage": "https://mohsenhariri.github.io/scorio/",
+                "id": 1068102354,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-20T01:33:39Z",
+                "open_issues": 0,
+                "owner": "mohsenhariri",
+                "repo": "scorio",
+                "stars": 24,
+                "topics": [
+                  "bayesian",
+                  "bayesian-inference",
+                  "evaluation",
+                  "large-language-models",
+                  "llm",
+                  "ranking",
+                  "statistics"
+                ]
+              },
+              "first_seen": "2026-10-20T22:28:56.576Z"
+            },
+            {
+              "node_type": "item",
               "title": "Wider and Deeper LLM Networks are Fairer LLM Evaluators Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li arXiv 2023. [Paper",
               "description": "][Github] 3 Aug 2023",
               "children": [],
@@ -141,7 +170,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-13T02:09:22Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
                 "stars": 1615,
@@ -1324,7 +1353,7 @@
                     "open_issues": 4,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 636,
+                    "stars": 635,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1413,7 +1442,7 @@
                     "open_issues": 22,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 953,
+                    "stars": 954,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1801,7 +1830,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2055,
+                    "stars": 2054,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -2035,7 +2064,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4615,
+                    "stars": 4616,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2203,16 +2232,16 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[Neruips 2026] We built an adversarial codespace setup. Place any AI agent into a normal workflow inside it, and the agent will fill in whatever is missing.",
+                    "description": "[NeurIPS 2026] Safety failures in coding agents and frontier LLMs. Reproducible workspaces for studying when AI agents generate unsafe data during task completion.",
                     "homepage": "https://wuyoscar.github.io/Internal-Safety-Collapse/",
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-18T11:52:53Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-20T18:26:16Z",
+                    "open_issues": 1,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 1805,
+                    "stars": 1925,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2308,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:58:46.361Z",
+    "last_updated": "2026-10-20T22:28:56.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2316,7 +2345,7 @@
       "id": 616324616,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-03T15:58:09Z",
+      "last_commit": "2026-10-20T14:59:26Z",
       "open_issues": 4,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
@@ -2341,7 +2370,7 @@
         "uncertainty-quantification"
       ]
     },
-    "original_repository_sha": "5a5353b92982e1d14e577a4f60e1026e62b27ffb",
+    "original_repository_sha": "971942f14333cd756336a253b1c0f1c37269a567",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Uncertainty-Reliability-Robustness",
     "enhanced_repository_description": null,
     "title": "Awesome-LLM-Uncertainty-Reliability-Robustness with stars"
