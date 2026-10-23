@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-21T22:32:33Z",
-                "open_issues": 328,
+                "last_commit": "2026-10-23T21:10:36Z",
+                "open_issues": 336,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76758,
+                "stars": 76781,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 349,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19634,
+                "stars": 19640,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -279,7 +279,7 @@
                 "open_issues": 117,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2953,
+                "stars": 2955,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -394,7 +394,7 @@
                 "open_issues": 11,
                 "owner": "marcotcr",
                 "repo": "checklist",
-                "stars": 2051,
+                "stars": 2050,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1193,13 +1193,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Verification for the agent era. Your coding agent's PR summary cannot lie about its diff - one CI line. Plus the research: the first map of which AI minds can read each other. Every claim machine-verified against committed receipts, negatives included. pip install styxx",
+                    "description": "Instruments that check what AI agents claim against committed bytes. The diff gate reads a PR summary against its diff and reports by default. EXTERNAL-1 upheld 23 of 100 sampled accusations, precision 0.23 (85 path claims, styxx 7.47.0; path accusations withheld since). Receipts, failures included, are in the repo.",
                     "homepage": "https://styxx-org.netlify.app",
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T14:59:19Z",
-                    "open_issues": 62,
+                    "last_commit": "2026-10-23T20:39:13Z",
+                    "open_issues": 59,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1210,7 +1210,6 @@
                       "ci",
                       "code-review",
                       "github-action",
-                      "hallucination-detection",
                       "interpretability",
                       "llm",
                       "preregistration",
@@ -1353,7 +1352,7 @@
                     "open_issues": 4,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 635,
+                    "stars": 636,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1537,7 +1536,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4242,
+                    "stars": 4246,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1830,7 +1829,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2056,
+                    "stars": 2057,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -2237,11 +2236,11 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T15:21:39Z",
+                    "last_commit": "2026-10-23T08:37:45Z",
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2123,
+                    "stars": 2233,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2337,7 +2336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:34:09.656Z",
+    "last_updated": "2026-10-23T22:28:52.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
