@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:10:36Z",
-                "open_issues": 336,
+                "open_issues": 339,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76781,
+                "stars": 76797,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 349,
+                "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19640,
+                "stars": 19645,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -144,7 +144,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:53:20Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1613,
@@ -201,7 +201,7 @@
                 "open_issues": 15,
                 "owner": "AI-secure",
                 "repo": "DecodingTrust",
-                "stars": 317,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -222,7 +222,7 @@
                 "open_issues": 16,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10206,
+                "stars": 10207,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -279,7 +279,7 @@
                 "open_issues": 117,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2955,
+                "stars": 2957,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -572,7 +572,7 @@
                     "open_issues": 26,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1212,
+                    "stars": 1213,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -768,7 +768,7 @@
                     "open_issues": 2,
                     "owner": "gankim",
                     "repo": "tree-of-clarifications",
-                    "stars": 56,
+                    "stars": 55,
                     "topics": [
                       "ambiguous-qa",
                       "gpt-3",
@@ -795,7 +795,7 @@
                     "open_issues": 1,
                     "owner": "alisawuffles",
                     "repo": "ambient",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1173,7 +1173,7 @@
                     "id": 692175642,
                     "language": null,
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T10:00:58Z",
+                    "last_commit": "2026-10-24T16:35:59Z",
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
@@ -1198,8 +1198,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T20:39:13Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-10-24T19:36:21Z",
+                    "open_issues": 57,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1218,6 +1218,27 @@
                     ]
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun arXiv 2026. [Paper",
+                  "description": "][Github] 26 Jun 2026",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Souce code for paper \"SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation\"",
+                    "homepage": null,
+                    "id": 1274956243,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-23T05:16:06Z",
+                    "open_issues": 0,
+                    "owner": "OpenBMB",
+                    "repo": "SPARK",
+                    "stars": 10,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-24T21:43:17.431Z"
                 },
                 {
                   "node_type": "item",
@@ -1243,6 +1264,45 @@
                     ]
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong NeurIPS 2025. [Paper",
+                  "description": "][Github] 21 Feb 2025",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS 2025] ParamMute (a.k.a. PIP-KAG): suppressing knowledge-critical FFNs for faithful retrieval-augmented generation (RAG knowledge conflicts)",
+                    "homepage": "https://passionate11.github.io/ParamMute-project-page/",
+                    "id": 934687772,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-24T16:52:34Z",
+                    "open_issues": 0,
+                    "owner": "OpenBMB",
+                    "repo": "ParamMute",
+                    "stars": 64,
+                    "topics": [
+                      "cofaithfulqa",
+                      "context-faithfulness",
+                      "faithfulness",
+                      "ffn",
+                      "hallucination",
+                      "interpretability",
+                      "knowledge-conflict",
+                      "knowledge-conflicts",
+                      "large-language-models",
+                      "llm",
+                      "mechanistic-interpretability",
+                      "neurips2025",
+                      "nlp",
+                      "parammute",
+                      "pip-kag",
+                      "rag",
+                      "retrieval-augmented-generation"
+                    ]
+                  },
+                  "first_seen": "2026-10-24T21:43:17.431Z"
                 },
                 {
                   "node_type": "item",
@@ -1441,7 +1501,7 @@
                     "open_issues": 22,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 954,
+                    "stars": 955,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1536,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4246,
+                    "stars": 4247,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2027,7 +2087,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-04-04T19:48:35Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "RenzeLou",
                     "repo": "awesome-instruction-learning",
                     "stars": 512,
@@ -2240,7 +2300,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2233,
+                    "stars": 2304,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2336,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:28:52.139Z",
+    "last_updated": "2026-10-24T21:43:17.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2344,7 +2404,7 @@
       "id": 616324616,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-20T14:59:26Z",
+      "last_commit": "2026-10-24T16:17:19Z",
       "open_issues": 4,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
@@ -2369,7 +2429,7 @@
         "uncertainty-quantification"
       ]
     },
-    "original_repository_sha": "971942f14333cd756336a253b1c0f1c37269a567",
+    "original_repository_sha": "26512457a07f5cb7ac733daeced7ad64706dc1ca",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Uncertainty-Reliability-Robustness",
     "enhanced_repository_description": null,
     "title": "Awesome-LLM-Uncertainty-Reliability-Robustness with stars"
