@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:10:36Z",
-                "open_issues": 339,
+                "open_issues": 340,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76797,
+                "stars": 76814,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19645,
+                "stars": 19653,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -222,7 +222,7 @@
                 "open_issues": 16,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10207,
+                "stars": 10208,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -279,7 +279,7 @@
                 "open_issues": 117,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2957,
+                "stars": 2958,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -394,7 +394,7 @@
                 "open_issues": 11,
                 "owner": "marcotcr",
                 "repo": "checklist",
-                "stars": 2050,
+                "stars": 2049,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1198,8 +1198,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T19:36:21Z",
-                    "open_issues": 57,
+                    "last_commit": "2026-10-25T19:50:57Z",
+                    "open_issues": 56,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1231,7 +1231,7 @@
                     "id": 1274956243,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T05:16:06Z",
+                    "last_commit": "2026-10-25T14:31:57Z",
                     "open_issues": 0,
                     "owner": "OpenBMB",
                     "repo": "SPARK",
@@ -2300,7 +2300,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2304,
+                    "stars": 2313,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:43:17.431Z",
+    "last_updated": "2026-10-25T21:58:02.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
