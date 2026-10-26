@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-23T21:10:36Z",
-                "open_issues": 340,
+                "last_commit": "2026-10-26T21:23:33Z",
+                "open_issues": 347,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76814,
+                "stars": 76828,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19653,
+                "stars": 19658,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -279,7 +279,7 @@
                 "open_issues": 117,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2958,
+                "stars": 2960,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -572,7 +572,7 @@
                     "open_issues": 26,
                     "owner": "cvs-health",
                     "repo": "uqlm",
-                    "stars": 1213,
+                    "stars": 1214,
                     "topics": [
                       "ai-evaluation",
                       "ai-safety",
@@ -1198,8 +1198,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T19:50:57Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-10-26T21:01:43Z",
+                    "open_issues": 53,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4247,
+                    "stars": 4246,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1707,7 +1707,7 @@
                     "open_issues": 13,
                     "owner": "StonyBrookNLP",
                     "repo": "ircot",
-                    "stars": 284,
+                    "stars": 285,
                     "topics": [
                       "chain-of-thought",
                       "large-language-models",
@@ -2058,7 +2058,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 822,
+                    "stars": 828,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2300,7 +2300,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2313,
+                    "stars": 2361,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:58:02.574Z",
+    "last_updated": "2026-10-26T23:14:05.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
