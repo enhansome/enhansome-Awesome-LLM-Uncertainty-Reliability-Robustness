@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-26T21:23:33Z",
-                "open_issues": 347,
+                "last_commit": "2026-10-27T19:22:31Z",
+                "open_issues": 348,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76828,
+                "stars": 76836,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19658,
+                "stars": 19663,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -147,7 +147,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1613,
+                "stars": 1615,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1177,7 +1177,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1139,
+                    "stars": 1138,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4246,
+                    "stars": 4249,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2058,7 +2058,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 828,
+                    "stars": 842,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2300,7 +2300,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2361,
+                    "stars": 2431,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:14:05.214Z",
+    "last_updated": "2026-10-27T23:01:55.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
