@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-27T19:22:31Z",
-                "open_issues": 348,
+                "last_commit": "2026-10-28T23:12:19Z",
+                "open_issues": 347,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76836,
+                "stars": 76856,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19663,
+                "stars": 19669,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -147,7 +147,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -169,8 +169,8 @@
                 "id": 661178361,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-21T06:48:00Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-28T15:45:03Z",
+                "open_issues": 6,
                 "owner": "MLGroupJLU",
                 "repo": "LLM-eval-survey",
                 "stars": 1615,
@@ -276,7 +276,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 117,
+                "open_issues": 119,
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2960,
@@ -1412,7 +1412,7 @@
                     "open_issues": 4,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
-                    "stars": 636,
+                    "stars": 635,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1501,7 +1501,7 @@
                     "open_issues": 22,
                     "owner": "sylinrl",
                     "repo": "TruthfulQA",
-                    "stars": 955,
+                    "stars": 957,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4249,
+                    "stars": 4250,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2058,7 +2058,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 842,
+                    "stars": 844,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2206,7 +2206,7 @@
                     "open_issues": 7,
                     "owner": "reasoning-machines",
                     "repo": "pal",
-                    "stars": 529,
+                    "stars": 531,
                     "topics": [
                       "commonsense-reasoning",
                       "few-shot-learning",
@@ -2300,7 +2300,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2431,
+                    "stars": 2464,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:01:55.310Z",
+    "last_updated": "2026-10-28T23:22:43.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
