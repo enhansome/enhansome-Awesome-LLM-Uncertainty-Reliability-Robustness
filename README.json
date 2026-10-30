@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-29T16:53:40Z",
-                "open_issues": 346,
+                "open_issues": 343,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76866,
+                "stars": 76879,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19675,
+                "stars": 19681,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -222,7 +222,7 @@
                 "open_issues": 16,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10208,
+                "stars": 10209,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -865,7 +865,7 @@
                     "open_issues": 0,
                     "owner": "aangelopoulos",
                     "repo": "conformal-risk",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": [
                       "computer-vision",
                       "conformal",
@@ -1177,7 +1177,7 @@
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
-                    "stars": 1138,
+                    "stars": 1139,
                     "topics": [
                       "hallucinations",
                       "llms",
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4253,
+                    "stars": 4256,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2300,7 +2300,7 @@
                     "open_issues": 1,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2515,
+                    "stars": 2571,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:28:25.400Z",
+    "last_updated": "2026-10-30T23:04:30.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
