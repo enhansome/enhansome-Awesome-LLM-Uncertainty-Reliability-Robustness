@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-31T01:30:57Z",
-                "open_issues": 343,
+                "last_commit": "2026-11-01T11:51:57Z",
+                "open_issues": 344,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76894,
+                "stars": 76907,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19683,
+                "stars": 19686,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -222,7 +222,7 @@
                 "open_issues": 16,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10209,
+                "stars": 10210,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -865,7 +865,7 @@
                     "open_issues": 0,
                     "owner": "aangelopoulos",
                     "repo": "conformal-risk",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": [
                       "computer-vision",
                       "conformal",
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4256,
+                    "stars": 4258,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1623,7 +1623,7 @@
                     "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "CodeT",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2037,7 +2037,7 @@
                     "open_issues": 6,
                     "owner": "mbzuai-nlp",
                     "repo": "LaMini-LM",
-                    "stars": 820,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2058,7 +2058,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 844,
+                    "stars": 845,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2300,7 +2300,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2594,
+                    "stars": 2596,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:39:41.644Z",
+    "last_updated": "2026-11-01T22:56:23.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
