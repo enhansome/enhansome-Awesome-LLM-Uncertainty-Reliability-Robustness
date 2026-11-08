@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-06T18:39:50Z",
-                "open_issues": 352,
+                "open_issues": 354,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76997,
+                "stars": 77005,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19713,
+                "stars": 19719,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -568,7 +568,7 @@
                     "id": 968339993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T20:14:59Z",
+                    "last_commit": "2026-11-08T18:57:17Z",
                     "open_issues": 27,
                     "owner": "cvs-health",
                     "repo": "uqlm",
@@ -1198,8 +1198,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T05:30:22Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-11-08T21:24:52Z",
+                    "open_issues": 54,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1409,7 +1409,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-06-26T16:17:02Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "potsawee",
                     "repo": "selfcheckgpt",
                     "stars": 635,
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4267,
+                    "stars": 4269,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2058,7 +2058,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 848,
+                    "stars": 849,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:52:42.843Z",
+    "last_updated": "2026-11-08T22:59:08.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2426,7 +2426,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-11-07T05:00:25Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
       "stars": 839,
