@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-09T15:44:26Z",
-                "open_issues": 354,
+                "last_commit": "2026-11-10T20:46:44Z",
+                "open_issues": 357,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 77023,
+                "stars": 77033,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19723,
+                "stars": 19727,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -222,7 +222,7 @@
                 "open_issues": 16,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10211,
+                "stars": 10213,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -276,10 +276,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 124,
+                "open_issues": 126,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2969,
+                "stars": 2968,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -523,8 +523,8 @@
                     "id": 413355924,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T12:20:42Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-10T22:14:16Z",
+                    "open_issues": 4,
                     "owner": "google-deepmind",
                     "repo": "neural_testbed",
                     "stars": 192,
@@ -1198,8 +1198,8 @@
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T21:50:03Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-11-11T00:00:31Z",
+                    "open_issues": 56,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4273,
+                    "stars": 4278,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2058,7 +2058,7 @@
                     "open_issues": 10,
                     "owner": "madaan",
                     "repo": "self-refine",
-                    "stars": 849,
+                    "stars": 850,
                     "topics": [
                       "chatgpt",
                       "few-shot-learning",
@@ -2317,7 +2317,7 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T04:57:43Z",
+                    "last_commit": "2026-11-10T05:45:13Z",
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:19:34.748Z",
+    "last_updated": "2026-11-11T00:08:34.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
