@@ -17,11 +17,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-11T09:28:14Z",
-                "open_issues": 359,
+                "last_commit": "2026-11-12T21:59:10Z",
+                "open_issues": 364,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 77054,
+                "stars": 77072,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 350,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19732,
+                "stars": 19735,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -147,7 +147,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1623,
+                "stars": 1624,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -222,7 +222,7 @@
                 "open_issues": 16,
                 "owner": "Mooler0410",
                 "repo": "LLMsPracticalGuide",
-                "stars": 10213,
+                "stars": 10212,
                 "topics": [
                   "large-language-models",
                   "natural-language-processing",
@@ -276,10 +276,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 127,
+                "open_issues": 125,
                 "owner": "stanford-crfm",
                 "repo": "helm",
-                "stars": 2967,
+                "stars": 2969,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -768,7 +768,7 @@
                     "open_issues": 2,
                     "owner": "gankim",
                     "repo": "tree-of-clarifications",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": [
                       "ambiguous-qa",
                       "gpt-3",
@@ -1194,11 +1194,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Instruments that check what AI agents claim against committed bytes. The diff gate reads a PR summary against its diff and reports by default. EXTERNAL-1 upheld 23 of 100 sampled accusations, precision 0.23 (85 path claims, styxx 7.47.0; path accusations withheld since). Receipts, failures included, are in the repo.",
-                    "homepage": "https://styxx-org.netlify.app",
+                    "homepage": null,
                     "id": 1209673285,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T20:04:45Z",
+                    "last_commit": "2026-11-12T21:00:25Z",
                     "open_issues": 55,
                     "owner": "fathom-lab",
                     "repo": "styxx",
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4275,
+                    "stars": 4276,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -1889,7 +1889,7 @@
                     "open_issues": 11,
                     "owner": "amazon-science",
                     "repo": "auto-cot",
-                    "stars": 2056,
+                    "stars": 2055,
                     "topics": [
                       "chain-of-thought",
                       "gpt-3",
@@ -2123,7 +2123,7 @@
                     "open_issues": 13,
                     "owner": "yizhongw",
                     "repo": "self-instruct",
-                    "stars": 4616,
+                    "stars": 4615,
                     "topics": [
                       "general-purpose-model",
                       "instruction-tuning",
@@ -2317,11 +2317,11 @@
                     "id": 1170037043,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T17:20:31Z",
+                    "last_commit": "2026-11-12T09:09:41Z",
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2599,
+                    "stars": 2613,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:36:31.386Z",
+    "last_updated": "2026-11-13T00:37:15.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
