@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-14T03:45:37Z",
-                "open_issues": 368,
+                "open_issues": 372,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 77120,
+                "stars": 77171,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -54,7 +54,7 @@
                 "open_issues": 351,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19744,
+                "stars": 19746,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -147,7 +147,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1624,
+                "stars": 1623,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -276,7 +276,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T01:33:19Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "stanford-crfm",
                 "repo": "helm",
                 "stars": 2970,
@@ -394,7 +394,7 @@
                 "open_issues": 11,
                 "owner": "marcotcr",
                 "repo": "checklist",
-                "stars": 2051,
+                "stars": 2050,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:21.016Z"
@@ -569,7 +569,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-08T18:57:17Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "cvs-health",
                     "repo": "uqlm",
                     "stars": 1217,
@@ -1173,7 +1173,7 @@
                     "id": 692175642,
                     "language": null,
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T16:35:59Z",
+                    "last_commit": "2026-11-15T20:29:12Z",
                     "open_issues": 0,
                     "owner": "EdinburghNLP",
                     "repo": "awesome-hallucination-detection",
@@ -1199,7 +1199,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-13T22:27:55Z",
-                    "open_issues": 56,
+                    "open_issues": 57,
                     "owner": "fathom-lab",
                     "repo": "styxx",
                     "stars": 15,
@@ -1596,7 +1596,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4278,
+                    "stars": 4280,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -2321,7 +2321,7 @@
                     "open_issues": 0,
                     "owner": "wuyoscar",
                     "repo": "Internal-Safety-Collapse",
-                    "stars": 2620,
+                    "stars": 2623,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:21.016Z"
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:12:48.920Z",
+    "last_updated": "2026-11-15T23:26:28.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
@@ -2429,7 +2429,7 @@
       "open_issues": 5,
       "owner": "jxzhangjhu",
       "repo": "Awesome-LLM-Uncertainty-Reliability-Robustness",
-      "stars": 840,
+      "stars": 841,
       "topics": [
         "awesome-list",
         "calibration",
